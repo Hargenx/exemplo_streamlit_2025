@@ -1,0 +1,2000 @@
+id_pedido,id_produto,id_loja,nome_produto,categoria_produto,cidade,data_venda,quantidade_vendida,valor_venda
+1,40,4,PowerPro,Ferramentas Criativas,São Paulo,17/12/2024,5,306.95
+2,44,3,CodeCode,Ferramentas de Desenvolvimento,São Paulo,08/07/2024,5,283.78
+3,60,5,CodeCode,Ferramentas Educacionais,São Paulo,06/05/2023,6,38.45
+4,64,3,LostFost,Ferramentas Criativas,Belo Horizonte,01/07/2023,8,295.01
+5,48,1,CodeCode,Ferramentas de Desenvolvimento,São Paulo,24/03/2024,6,294.35
+6,55,3,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,04/02/2024,6,158.57
+7,94,3,LostFost,Ferramentas Educacionais,Rio de Janeiro,06/05/2023,2,28.01
+8,89,1,HargenXtudio,Ferramentas Criativas,São Paulo,03/06/2024,18,170.48
+9,46,1,CodeCode,Ferramentas Criativas,Rio de Janeiro,03/06/2024,8,59.48
+10,26,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,26/05/2024,20,363.71
+11,92,3,CodeCode,Ferramentas Criativas,Belo Horizonte,25/09/2022,17,398.96
+12,51,4,HargenXtudio,Ferramentas Criativas,Belo Horizonte,25/12/2022,20,409.33
+13,64,1,LostFost,Ferramentas Educacionais,Belo Horizonte,17/10/2023,10,10.73
+14,69,1,UI/UX-K,Ferramentas Criativas,Belo Horizonte,12/07/2024,6,354.4
+15,83,3,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,25/11/2022,4,212.05
+16,68,3,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,12/01/2024,20,440.0
+17,72,3,PowerPro,Ferramentas Educacionais,Belo Horizonte,11/05/2023,6,123.15
+18,61,4,LostFost,Ferramentas Criativas,São Paulo,13/02/2024,8,112.99
+19,90,2,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,18/05/2023,11,186.21
+20,51,2,LostFost,Ferramentas Educacionais,Rio de Janeiro,16/09/2022,4,245.65
+21,56,2,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,19/11/2023,16,152.43
+22,25,3,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,05/11/2022,16,494.01
+23,77,5,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,27/06/2022,6,126.01
+24,45,2,CodeCode,Ferramentas Criativas,Belo Horizonte,06/02/2022,7,425.98
+25,26,5,CodeCode,Ferramentas de Desenvolvimento,São Paulo,03/05/2024,17,186.79
+26,57,1,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,22/08/2022,7,139.92
+27,78,4,PowerPro,Ferramentas Criativas,Belo Horizonte,18/02/2023,14,56.17
+28,12,4,HargenXtudio,Ferramentas Educacionais,São Paulo,24/09/2024,20,116.97
+29,79,5,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,03/06/2022,17,178.49
+30,28,2,PowerPro,Ferramentas de Desenvolvimento,São Paulo,06/11/2022,11,290.19
+31,79,4,HargenXtudio,Ferramentas Criativas,São Paulo,18/11/2024,1,98.76
+32,98,5,LostFost,Ferramentas Educacionais,São Paulo,24/03/2022,8,499.05
+33,57,5,UI/UX-K,Ferramentas Criativas,São Paulo,06/09/2022,11,485.18
+34,47,4,UI/UX-K,Ferramentas Educacionais,São Paulo,21/05/2023,20,369.42
+35,32,1,PowerPro,Ferramentas Criativas,Rio de Janeiro,08/01/2022,9,185.31
+36,82,1,UI/UX-K,Ferramentas Educacionais,São Paulo,14/07/2023,19,212.72
+37,54,2,HargenXtudio,Ferramentas Criativas,São Paulo,08/11/2023,8,231.3
+38,78,5,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,23/01/2022,1,495.13
+39,22,2,HargenXtudio,Ferramentas Criativas,São Paulo,15/07/2022,5,304.27
+40,78,5,PowerPro,Ferramentas Criativas,São Paulo,14/12/2023,8,91.33
+41,37,5,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,02/04/2023,11,296.18
+42,57,2,LostFost,Ferramentas Criativas,São Paulo,14/04/2024,11,106.26
+43,54,5,UI/UX-K,Ferramentas Criativas,São Paulo,23/08/2022,12,60.39
+44,34,3,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,02/12/2022,7,81.54
+45,54,4,PowerPro,Ferramentas Criativas,Rio de Janeiro,31/07/2024,3,436.82
+46,87,3,PowerPro,Ferramentas Criativas,São Paulo,16/11/2023,11,26.87
+47,69,3,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,25/01/2023,19,117.65
+48,32,5,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,22/03/2022,18,200.24
+49,33,1,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,11/01/2024,11,154.26
+50,96,1,LostFost,Ferramentas Criativas,Belo Horizonte,21/06/2022,14,495.27
+51,67,2,HargenXtudio,Ferramentas Educacionais,São Paulo,11/10/2023,2,252.68
+52,75,1,PowerPro,Ferramentas Educacionais,Rio de Janeiro,24/05/2024,12,362.53
+53,54,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,13/12/2022,8,78.71
+54,30,3,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,15/05/2023,11,387.81
+55,15,3,LostFost,Ferramentas Criativas,Rio de Janeiro,24/05/2023,11,23.11
+56,46,5,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,31/10/2024,6,384.57
+57,36,1,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,26/09/2023,1,439.56
+58,76,5,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,09/01/2024,14,293.66
+59,97,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,17/03/2023,14,24.7
+60,72,4,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,20/04/2023,16,115.41
+61,59,5,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,23/07/2022,11,26.12
+62,25,3,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,28/09/2024,1,346.1
+63,56,4,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,11/09/2024,6,405.14
+64,42,4,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,24/03/2023,19,293.0
+65,72,5,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,20/04/2022,18,310.52
+66,67,1,CodeCode,Ferramentas Educacionais,Rio de Janeiro,01/01/2023,16,337.09
+67,31,5,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,07/03/2023,12,169.35
+68,81,4,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,18/11/2023,20,376.84
+69,59,3,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,13/09/2024,10,238.74
+70,77,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,24/03/2022,2,207.25
+71,17,2,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,21/04/2022,13,199.38
+72,24,3,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,27/03/2022,11,333.34
+73,51,3,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,10/12/2023,14,318.1
+74,51,4,HargenXtudio,Ferramentas Criativas,São Paulo,28/04/2022,12,37.58
+75,87,1,LostFost,Ferramentas Educacionais,Belo Horizonte,16/03/2022,12,344.22
+76,99,4,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,27/04/2024,15,70.92
+77,30,1,UI/UX-K,Ferramentas Criativas,Belo Horizonte,01/06/2024,19,158.16
+78,23,4,PowerPro,Ferramentas Criativas,Belo Horizonte,05/04/2022,7,310.58
+79,86,3,LostFost,Ferramentas Criativas,Rio de Janeiro,28/02/2022,20,155.91
+80,49,5,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,17/08/2023,10,495.95
+81,62,4,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,30/03/2022,13,446.39
+82,89,4,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,06/04/2023,7,135.02
+83,51,5,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,26/11/2024,4,76.04
+84,29,5,HargenXtudio,Ferramentas Criativas,Belo Horizonte,21/12/2023,3,88.02
+85,11,5,UI/UX-K,Ferramentas Criativas,São Paulo,04/07/2022,17,41.25
+86,96,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,14/08/2022,9,395.75
+87,36,4,LostFost,Ferramentas de Desenvolvimento,São Paulo,30/10/2022,5,248.75
+88,43,1,PowerPro,Ferramentas Criativas,São Paulo,02/09/2024,2,30.22
+89,90,4,PowerPro,Ferramentas Educacionais,Belo Horizonte,13/04/2024,11,248.07
+90,41,3,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,18/10/2024,12,277.12
+91,23,1,PowerPro,Ferramentas Criativas,Belo Horizonte,24/05/2023,17,101.59
+92,56,1,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,07/07/2023,10,212.6
+93,70,3,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,14/06/2024,16,417.72
+94,94,2,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,25/03/2023,15,297.42
+95,62,2,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,12/07/2023,4,475.28
+96,87,4,UI/UX-K,Ferramentas Criativas,São Paulo,15/08/2023,10,193.37
+97,77,3,HargenXtudio,Ferramentas Criativas,São Paulo,30/08/2022,14,492.85
+98,95,4,UI/UX-K,Ferramentas Criativas,Belo Horizonte,28/09/2023,18,92.77
+99,78,1,CodeCode,Ferramentas Criativas,São Paulo,31/03/2022,1,489.43
+100,18,1,LostFost,Ferramentas Educacionais,Rio de Janeiro,25/09/2024,10,19.09
+101,65,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,10/11/2024,4,404.35
+102,34,1,UI/UX-K,Ferramentas Educacionais,São Paulo,11/06/2022,6,411.66
+103,74,1,CodeCode,Ferramentas Educacionais,São Paulo,11/03/2024,2,67.19
+104,77,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,06/11/2022,19,335.29
+105,55,4,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,19/08/2023,4,81.21
+106,17,2,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,04/05/2022,1,198.6
+107,32,1,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,22/05/2024,7,31.49
+108,57,5,PowerPro,Ferramentas Criativas,Belo Horizonte,27/06/2023,12,423.37
+109,24,4,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,17/05/2023,9,175.41
+110,31,4,PowerPro,Ferramentas Criativas,Rio de Janeiro,03/12/2022,15,445.46
+111,35,3,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,10/03/2024,11,116.14
+112,53,3,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,15/11/2024,11,421.63
+113,26,4,CodeCode,Ferramentas de Desenvolvimento,São Paulo,15/11/2022,8,43.06
+114,73,1,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,26/12/2024,9,96.93
+115,56,5,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,07/11/2024,9,200.9
+116,30,4,PowerPro,Ferramentas Educacionais,São Paulo,11/09/2024,10,228.38
+117,99,2,HargenXtudio,Ferramentas Criativas,São Paulo,10/04/2024,4,474.19
+118,98,1,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,03/06/2023,18,236.84
+119,56,1,CodeCode,Ferramentas de Desenvolvimento,São Paulo,30/10/2022,11,496.41
+120,52,1,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,27/10/2022,3,21.08
+121,80,5,PowerPro,Ferramentas Criativas,Belo Horizonte,10/12/2024,15,317.75
+122,73,5,LostFost,Ferramentas Educacionais,Belo Horizonte,09/06/2023,19,477.7
+123,58,5,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,21/07/2022,15,479.35
+124,33,3,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,20/05/2023,6,493.99
+125,60,4,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,12/08/2022,3,16.49
+126,100,4,PowerPro,Ferramentas Educacionais,Rio de Janeiro,12/03/2024,10,40.67
+127,70,5,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,19/05/2022,3,115.15
+128,99,3,HargenXtudio,Ferramentas Educacionais,São Paulo,21/05/2023,16,215.57
+129,16,4,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,19/09/2024,19,12.17
+130,12,3,LostFost,Ferramentas Criativas,São Paulo,07/04/2023,13,81.89
+131,48,5,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,05/01/2023,15,157.16
+132,63,1,PowerPro,Ferramentas Educacionais,Belo Horizonte,16/08/2022,5,120.69
+133,72,2,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,28/04/2024,5,483.79
+134,57,3,UI/UX-K,Ferramentas Criativas,Belo Horizonte,19/07/2022,5,250.51
+135,87,3,HargenXtudio,Ferramentas Criativas,São Paulo,28/09/2022,20,167.5
+136,47,5,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,13/02/2023,8,395.67
+137,63,4,PowerPro,Ferramentas Criativas,São Paulo,27/02/2024,7,24.57
+138,49,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,20/04/2024,20,376.66
+139,47,5,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,17/11/2024,1,491.62
+140,54,1,HargenXtudio,Ferramentas Criativas,São Paulo,22/03/2022,20,483.05
+141,44,5,UI/UX-K,Ferramentas Criativas,Belo Horizonte,14/03/2024,17,492.3
+142,97,2,UI/UX-K,Ferramentas Criativas,São Paulo,12/04/2023,14,347.61
+143,98,2,LostFost,Ferramentas Educacionais,Rio de Janeiro,05/11/2024,19,468.78
+144,46,2,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,27/10/2022,5,80.71
+145,89,2,UI/UX-K,Ferramentas Educacionais,São Paulo,19/01/2023,16,448.79
+146,21,1,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,24/09/2024,16,368.6
+147,18,2,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,29/04/2024,18,480.39
+148,76,1,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,08/02/2022,13,483.21
+149,62,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,25/08/2022,4,93.73
+150,73,5,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,14/07/2023,20,276.8
+151,65,5,CodeCode,Ferramentas de Desenvolvimento,São Paulo,10/05/2023,9,452.25
+152,37,3,LostFost,Ferramentas Criativas,Rio de Janeiro,10/09/2023,19,162.14
+153,70,5,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,03/11/2023,5,406.5
+154,38,3,LostFost,Ferramentas Criativas,Belo Horizonte,06/12/2023,7,44.98
+155,85,5,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,13/03/2022,10,390.66
+156,84,1,PowerPro,Ferramentas de Desenvolvimento,São Paulo,08/06/2024,20,448.58
+157,27,1,UI/UX-K,Ferramentas Criativas,São Paulo,30/04/2024,11,411.65
+158,15,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,31/10/2022,2,289.34
+159,100,5,LostFost,Ferramentas Criativas,Belo Horizonte,07/12/2022,9,473.55
+160,81,3,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,28/11/2024,16,233.5
+161,57,2,PowerPro,Ferramentas Educacionais,São Paulo,14/09/2023,14,141.38
+162,87,5,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,01/11/2024,16,120.26
+163,83,5,LostFost,Ferramentas Educacionais,Belo Horizonte,11/05/2024,7,352.1
+164,60,4,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,08/04/2022,5,346.5
+165,19,5,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,10/10/2023,16,128.88
+166,31,5,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,21/03/2022,3,267.2
+167,84,4,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,19/03/2024,9,176.88
+168,63,1,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,05/03/2023,19,320.96
+169,82,2,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,04/03/2023,18,136.31
+170,97,3,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,27/05/2023,13,361.18
+171,35,3,PowerPro,Ferramentas Educacionais,Rio de Janeiro,21/03/2023,15,275.88
+172,13,2,HargenXtudio,Ferramentas Criativas,São Paulo,01/11/2022,8,169.31
+173,68,1,LostFost,Ferramentas Criativas,São Paulo,17/12/2023,11,181.9
+174,73,4,UI/UX-K,Ferramentas Criativas,Belo Horizonte,11/12/2024,2,132.61
+175,38,2,LostFost,Ferramentas Criativas,Rio de Janeiro,14/07/2024,8,307.83
+176,85,2,HargenXtudio,Ferramentas Criativas,São Paulo,28/11/2022,12,181.07
+177,78,3,CodeCode,Ferramentas Criativas,São Paulo,18/06/2022,13,393.94
+178,64,2,PowerPro,Ferramentas Criativas,Belo Horizonte,01/09/2023,18,332.52
+179,55,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,02/05/2022,1,315.83
+180,58,3,PowerPro,Ferramentas Educacionais,Belo Horizonte,24/02/2023,19,201.25
+181,50,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,21/08/2023,10,399.14
+182,57,2,PowerPro,Ferramentas Criativas,Belo Horizonte,28/10/2024,20,223.88
+183,23,3,LostFost,Ferramentas Criativas,São Paulo,04/01/2024,10,130.71
+184,90,5,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,16/04/2023,9,277.33
+185,33,2,UI/UX-K,Ferramentas Criativas,São Paulo,06/08/2024,14,193.69
+186,58,4,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,02/10/2022,7,140.57
+187,87,4,PowerPro,Ferramentas Criativas,Rio de Janeiro,25/05/2024,3,408.11
+188,27,3,UI/UX-K,Ferramentas Criativas,São Paulo,19/10/2022,20,68.86
+189,64,3,HargenXtudio,Ferramentas Criativas,São Paulo,01/08/2024,11,164.85
+190,29,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,16/07/2022,20,431.51
+191,93,2,PowerPro,Ferramentas Educacionais,Belo Horizonte,26/04/2023,7,109.24
+192,90,1,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,11/09/2024,4,476.11
+193,78,5,LostFost,Ferramentas de Desenvolvimento,São Paulo,09/11/2023,13,331.0
+194,96,3,HargenXtudio,Ferramentas Criativas,Belo Horizonte,28/08/2022,14,179.14
+195,97,1,LostFost,Ferramentas Educacionais,São Paulo,29/07/2024,7,313.31
+196,55,1,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,16/02/2023,14,487.28
+197,28,5,HargenXtudio,Ferramentas Criativas,Belo Horizonte,26/04/2024,8,415.96
+198,85,1,LostFost,Ferramentas Criativas,São Paulo,17/07/2023,5,181.29
+199,17,3,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,28/04/2022,5,401.82
+200,76,1,CodeCode,Ferramentas Criativas,Rio de Janeiro,15/12/2022,8,152.04
+201,92,3,UI/UX-K,Ferramentas Criativas,Belo Horizonte,08/03/2022,15,171.99
+202,73,5,UI/UX-K,Ferramentas Criativas,São Paulo,03/09/2022,14,275.07
+203,50,3,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,16/05/2022,10,70.39
+204,51,4,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,25/08/2022,19,352.29
+205,50,4,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,31/08/2024,7,59.8
+206,24,4,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,08/08/2024,9,421.66
+207,100,2,LostFost,Ferramentas Criativas,São Paulo,06/03/2023,19,324.07
+208,78,5,LostFost,Ferramentas Criativas,Belo Horizonte,07/03/2023,9,206.89
+209,16,4,CodeCode,Ferramentas Criativas,São Paulo,17/11/2024,5,323.58
+210,97,4,LostFost,Ferramentas de Desenvolvimento,São Paulo,03/07/2024,14,188.39
+211,41,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,25/11/2022,2,57.4
+212,24,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,08/07/2024,9,401.23
+213,52,2,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,16/12/2023,8,43.94
+214,59,2,HargenXtudio,Ferramentas Criativas,São Paulo,20/07/2022,5,359.16
+215,22,5,PowerPro,Ferramentas de Desenvolvimento,São Paulo,28/01/2022,3,398.24
+216,47,5,CodeCode,Ferramentas Educacionais,Rio de Janeiro,25/07/2022,7,128.64
+217,38,1,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,03/02/2022,4,235.27
+218,55,2,UI/UX-K,Ferramentas Criativas,Belo Horizonte,01/02/2024,5,287.17
+219,64,3,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,16/05/2022,20,256.3
+220,49,2,LostFost,Ferramentas Criativas,São Paulo,08/03/2022,2,407.38
+221,59,5,PowerPro,Ferramentas Criativas,Rio de Janeiro,17/11/2023,17,143.9
+222,27,2,UI/UX-K,Ferramentas Criativas,São Paulo,22/06/2023,3,364.72
+223,95,4,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,16/11/2023,14,273.3
+224,58,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,09/02/2023,17,257.51
+225,71,5,HargenXtudio,Ferramentas Educacionais,São Paulo,02/09/2022,19,435.1
+226,31,5,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,16/10/2023,7,430.2
+227,88,5,PowerPro,Ferramentas Educacionais,São Paulo,10/03/2022,19,223.3
+228,66,5,PowerPro,Ferramentas Criativas,Belo Horizonte,24/11/2022,8,11.57
+229,47,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,11/08/2023,15,139.94
+230,56,4,HargenXtudio,Ferramentas Educacionais,São Paulo,27/02/2022,15,64.34
+231,49,5,CodeCode,Ferramentas Educacionais,Rio de Janeiro,09/10/2024,19,353.17
+232,88,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,17/08/2024,1,160.69
+233,82,4,LostFost,Ferramentas de Desenvolvimento,São Paulo,19/01/2024,11,135.19
+234,18,1,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,06/07/2024,13,77.64
+235,22,3,LostFost,Ferramentas Educacionais,Belo Horizonte,02/03/2022,14,51.5
+236,78,1,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,17/12/2022,9,417.63
+237,26,5,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,02/11/2024,14,495.83
+238,56,3,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,10/06/2024,8,472.95
+239,58,1,UI/UX-K,Ferramentas Criativas,São Paulo,18/06/2023,19,488.96
+240,59,5,CodeCode,Ferramentas Educacionais,Rio de Janeiro,01/06/2023,11,390.83
+241,94,4,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,31/07/2024,12,252.04
+242,36,4,PowerPro,Ferramentas Educacionais,Rio de Janeiro,27/10/2023,8,420.49
+243,29,3,LostFost,Ferramentas Criativas,Belo Horizonte,30/10/2024,12,50.86
+244,77,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,01/05/2022,2,27.63
+245,20,1,CodeCode,Ferramentas Educacionais,Rio de Janeiro,30/10/2024,18,95.76
+246,77,1,UI/UX-K,Ferramentas Criativas,Belo Horizonte,02/02/2024,10,221.95
+247,58,2,LostFost,Ferramentas Educacionais,Belo Horizonte,29/06/2022,3,46.97
+248,80,1,LostFost,Ferramentas Educacionais,Rio de Janeiro,24/06/2023,9,350.55
+249,28,4,UI/UX-K,Ferramentas Criativas,São Paulo,30/12/2023,5,164.0
+250,95,3,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,18/11/2022,18,401.39
+251,49,5,CodeCode,Ferramentas Criativas,São Paulo,12/06/2023,1,201.82
+252,36,3,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,20/12/2024,20,477.29
+253,90,5,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,24/11/2023,7,132.58
+254,81,1,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,29/05/2022,10,474.74
+255,67,3,LostFost,Ferramentas Educacionais,Rio de Janeiro,23/07/2023,19,145.09
+256,99,5,LostFost,Ferramentas de Desenvolvimento,São Paulo,13/10/2024,20,183.8
+257,91,3,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,02/03/2023,13,143.47
+258,47,3,CodeCode,Ferramentas Criativas,Rio de Janeiro,22/08/2023,10,199.41
+259,36,4,PowerPro,Ferramentas Criativas,Belo Horizonte,06/11/2022,5,460.09
+260,29,5,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,23/12/2022,19,11.43
+261,65,4,PowerPro,Ferramentas Educacionais,Belo Horizonte,11/12/2022,7,24.52
+262,95,4,LostFost,Ferramentas Criativas,São Paulo,21/03/2023,15,342.66
+263,47,1,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,30/05/2022,9,223.7
+264,93,4,PowerPro,Ferramentas Criativas,São Paulo,29/06/2023,9,338.06
+265,75,4,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,05/02/2023,3,264.43
+266,41,1,UI/UX-K,Ferramentas Educacionais,São Paulo,28/12/2023,5,262.68
+267,83,1,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,14/01/2024,3,390.27
+268,25,2,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,16/04/2023,10,201.5
+269,78,2,LostFost,Ferramentas Criativas,Belo Horizonte,18/12/2023,18,261.33
+270,24,3,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,09/08/2022,7,101.34
+271,59,2,UI/UX-K,Ferramentas Criativas,São Paulo,25/11/2023,19,15.11
+272,95,4,HargenXtudio,Ferramentas Criativas,Belo Horizonte,10/04/2022,6,223.35
+273,22,4,PowerPro,Ferramentas Educacionais,Belo Horizonte,21/06/2024,8,68.29
+274,19,2,PowerPro,Ferramentas de Desenvolvimento,São Paulo,30/12/2024,12,26.01
+275,73,1,LostFost,Ferramentas Criativas,Rio de Janeiro,02/08/2022,19,444.16
+276,43,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,08/12/2023,11,416.93
+277,21,4,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,01/01/2024,11,438.23
+278,57,3,CodeCode,Ferramentas Criativas,Rio de Janeiro,30/09/2022,8,284.52
+279,94,5,UI/UX-K,Ferramentas Criativas,São Paulo,19/11/2024,5,206.99
+280,96,3,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,22/02/2022,17,382.57
+281,26,5,CodeCode,Ferramentas de Desenvolvimento,São Paulo,28/08/2022,19,436.33
+282,16,5,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,27/05/2024,8,330.32
+283,33,4,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,09/01/2024,8,285.62
+284,45,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,06/09/2024,19,359.35
+285,14,4,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,05/10/2023,15,55.72
+286,53,1,PowerPro,Ferramentas Educacionais,Belo Horizonte,27/11/2024,14,294.45
+287,80,5,PowerPro,Ferramentas Educacionais,Rio de Janeiro,18/05/2022,17,411.51
+288,41,2,HargenXtudio,Ferramentas Criativas,São Paulo,19/03/2022,9,221.32
+289,50,5,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,16/02/2023,18,485.05
+290,64,1,UI/UX-K,Ferramentas Educacionais,São Paulo,02/01/2023,10,146.53
+291,62,3,PowerPro,Ferramentas Criativas,Belo Horizonte,09/01/2024,8,215.27
+292,18,1,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,16/04/2023,14,210.0
+293,71,1,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,04/11/2024,15,293.41
+294,97,5,LostFost,Ferramentas Criativas,São Paulo,07/01/2023,12,62.29
+295,60,4,PowerPro,Ferramentas Educacionais,Belo Horizonte,20/08/2023,12,434.02
+296,12,1,LostFost,Ferramentas Criativas,Belo Horizonte,12/09/2023,2,492.87
+297,59,3,LostFost,Ferramentas Educacionais,São Paulo,09/04/2024,8,354.78
+298,85,2,LostFost,Ferramentas Educacionais,São Paulo,23/02/2024,7,68.72
+299,87,2,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,09/12/2024,10,483.59
+300,36,3,UI/UX-K,Ferramentas Criativas,São Paulo,21/04/2024,6,299.33
+301,49,1,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,12/12/2023,6,33.56
+302,39,3,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,12/10/2024,4,405.45
+303,54,1,PowerPro,Ferramentas Criativas,Belo Horizonte,22/06/2024,18,15.6
+304,32,3,CodeCode,Ferramentas Educacionais,Rio de Janeiro,06/11/2022,19,369.58
+305,57,2,PowerPro,Ferramentas Criativas,Rio de Janeiro,08/11/2023,13,236.41
+306,43,3,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,29/06/2024,14,164.99
+307,26,3,LostFost,Ferramentas Educacionais,Rio de Janeiro,20/09/2022,7,376.29
+308,51,3,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,23/03/2023,3,301.94
+309,26,4,HargenXtudio,Ferramentas Criativas,Belo Horizonte,27/04/2024,8,266.24
+310,71,3,CodeCode,Ferramentas Criativas,São Paulo,10/04/2023,15,98.03
+311,36,2,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,29/10/2022,8,453.06
+312,48,3,LostFost,Ferramentas Educacionais,São Paulo,01/02/2024,17,326.16
+313,25,2,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,31/08/2022,12,25.5
+314,99,4,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,02/02/2024,3,340.82
+315,11,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,20/01/2023,1,287.14
+316,57,2,UI/UX-K,Ferramentas Criativas,Belo Horizonte,08/05/2024,9,27.01
+317,33,5,UI/UX-K,Ferramentas Educacionais,São Paulo,20/06/2022,17,361.85
+318,96,1,LostFost,Ferramentas Educacionais,Belo Horizonte,04/09/2024,1,159.16
+319,18,5,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,10/06/2024,7,216.98
+320,39,3,PowerPro,Ferramentas Educacionais,São Paulo,28/03/2024,13,33.11
+321,34,2,PowerPro,Ferramentas Educacionais,Rio de Janeiro,31/05/2024,14,378.83
+322,65,4,LostFost,Ferramentas de Desenvolvimento,São Paulo,26/09/2023,11,414.09
+323,34,4,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,30/05/2023,7,497.23
+324,27,3,HargenXtudio,Ferramentas Educacionais,São Paulo,30/11/2023,19,124.17
+325,66,2,CodeCode,Ferramentas de Desenvolvimento,São Paulo,29/07/2022,9,478.51
+326,67,2,LostFost,Ferramentas de Desenvolvimento,São Paulo,01/11/2022,17,359.33
+327,83,5,PowerPro,Ferramentas Criativas,Belo Horizonte,25/12/2023,6,390.48
+328,70,3,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,27/07/2024,16,111.86
+329,84,2,HargenXtudio,Ferramentas Criativas,Belo Horizonte,31/08/2023,7,185.71
+330,19,5,HargenXtudio,Ferramentas Criativas,São Paulo,03/05/2023,8,315.54
+331,81,3,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,07/07/2022,2,238.17
+332,78,3,HargenXtudio,Ferramentas Educacionais,São Paulo,09/07/2022,7,427.69
+333,91,1,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,07/02/2023,15,161.74
+334,50,1,CodeCode,Ferramentas de Desenvolvimento,São Paulo,18/01/2023,12,494.66
+335,35,1,LostFost,Ferramentas Criativas,São Paulo,15/02/2024,5,13.71
+336,78,4,CodeCode,Ferramentas Criativas,São Paulo,25/07/2022,2,458.18
+337,12,2,PowerPro,Ferramentas Criativas,Rio de Janeiro,28/05/2023,18,87.02
+338,78,3,CodeCode,Ferramentas Criativas,Belo Horizonte,16/11/2023,11,199.73
+339,99,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,21/03/2022,12,352.37
+340,69,5,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,20/12/2023,11,92.56
+341,17,2,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,29/11/2022,5,386.84
+342,73,2,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,03/11/2024,10,189.65
+343,60,3,CodeCode,Ferramentas Criativas,Belo Horizonte,18/04/2024,9,129.19
+344,86,4,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,22/02/2022,8,130.83
+345,16,5,CodeCode,Ferramentas Criativas,Belo Horizonte,10/11/2023,11,426.91
+346,50,2,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,30/03/2024,20,270.25
+347,41,3,UI/UX-K,Ferramentas Criativas,São Paulo,19/07/2022,16,12.87
+348,51,1,PowerPro,Ferramentas Educacionais,Rio de Janeiro,21/11/2022,3,407.43
+349,94,3,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,31/08/2023,4,299.2
+350,64,5,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,17/04/2024,20,80.45
+351,20,1,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,23/10/2022,18,44.21
+352,16,5,PowerPro,Ferramentas Criativas,Belo Horizonte,05/01/2022,18,429.07
+353,57,3,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,13/12/2022,7,141.09
+354,15,3,LostFost,Ferramentas Criativas,Belo Horizonte,08/01/2023,7,100.2
+355,41,3,CodeCode,Ferramentas Educacionais,Rio de Janeiro,19/04/2024,10,160.17
+356,58,3,LostFost,Ferramentas Educacionais,Belo Horizonte,24/09/2022,1,330.66
+357,24,5,HargenXtudio,Ferramentas Educacionais,São Paulo,01/04/2022,4,184.69
+358,27,3,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,15/09/2024,16,274.91
+359,41,2,PowerPro,Ferramentas Criativas,Belo Horizonte,25/09/2024,20,192.87
+360,82,2,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,25/01/2022,2,271.98
+361,52,2,CodeCode,Ferramentas de Desenvolvimento,São Paulo,31/05/2023,1,328.09
+362,52,3,CodeCode,Ferramentas Criativas,Belo Horizonte,07/01/2022,11,421.39
+363,89,1,LostFost,Ferramentas Criativas,Rio de Janeiro,21/01/2023,19,257.08
+364,42,5,LostFost,Ferramentas Educacionais,São Paulo,09/02/2022,12,326.7
+365,47,2,LostFost,Ferramentas Educacionais,Rio de Janeiro,26/10/2022,13,479.2
+366,37,1,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,29/11/2024,9,444.12
+367,42,3,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,17/03/2022,5,431.61
+368,69,5,LostFost,Ferramentas Criativas,São Paulo,16/05/2022,11,262.85
+369,98,4,UI/UX-K,Ferramentas Criativas,Belo Horizonte,04/05/2022,10,454.31
+370,11,5,LostFost,Ferramentas Educacionais,Rio de Janeiro,10/06/2024,6,357.6
+371,29,5,CodeCode,Ferramentas Educacionais,Belo Horizonte,29/07/2024,7,473.43
+372,65,2,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,05/10/2023,15,150.57
+373,46,2,PowerPro,Ferramentas Educacionais,São Paulo,15/08/2023,18,84.53
+374,73,5,LostFost,Ferramentas Criativas,Belo Horizonte,21/11/2023,8,439.38
+375,78,2,LostFost,Ferramentas Criativas,Rio de Janeiro,22/04/2023,11,69.71
+376,33,5,UI/UX-K,Ferramentas Criativas,Belo Horizonte,10/11/2023,11,17.63
+377,15,2,PowerPro,Ferramentas Criativas,Belo Horizonte,06/05/2023,14,283.51
+378,39,4,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,26/12/2022,14,281.26
+379,69,4,CodeCode,Ferramentas de Desenvolvimento,São Paulo,03/11/2022,10,448.15
+380,88,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,06/07/2022,11,484.96
+381,34,1,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,30/12/2024,18,176.85
+382,55,5,PowerPro,Ferramentas Educacionais,Rio de Janeiro,03/08/2023,4,282.97
+383,48,1,PowerPro,Ferramentas Educacionais,Belo Horizonte,24/06/2023,6,452.63
+384,80,2,PowerPro,Ferramentas de Desenvolvimento,São Paulo,19/02/2022,8,240.96
+385,43,1,PowerPro,Ferramentas Criativas,Belo Horizonte,08/10/2023,6,34.54
+386,55,3,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,26/02/2023,13,453.14
+387,65,1,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,20/01/2023,2,484.87
+388,27,2,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,12/01/2024,3,470.55
+389,18,1,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,25/01/2022,10,414.15
+390,39,1,CodeCode,Ferramentas de Desenvolvimento,São Paulo,30/06/2024,15,462.47
+391,90,2,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,15/03/2024,2,188.3
+392,39,3,CodeCode,Ferramentas de Desenvolvimento,São Paulo,13/10/2024,14,46.37
+393,66,1,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,28/04/2024,5,324.69
+394,42,4,LostFost,Ferramentas Educacionais,Belo Horizonte,03/03/2022,20,175.49
+395,89,4,PowerPro,Ferramentas Criativas,Belo Horizonte,15/01/2024,16,328.4
+396,90,2,LostFost,Ferramentas Educacionais,Belo Horizonte,02/11/2024,7,220.21
+397,37,5,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,15/08/2022,20,426.09
+398,99,3,CodeCode,Ferramentas Criativas,Rio de Janeiro,08/07/2023,16,91.17
+399,83,2,UI/UX-K,Ferramentas Criativas,Belo Horizonte,09/01/2022,18,396.85
+400,24,1,UI/UX-K,Ferramentas Criativas,São Paulo,11/05/2022,13,343.56
+401,94,2,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,09/11/2023,14,444.09
+402,31,5,LostFost,Ferramentas de Desenvolvimento,São Paulo,31/01/2022,20,266.2
+403,77,4,HargenXtudio,Ferramentas Criativas,Belo Horizonte,12/03/2023,18,96.21
+404,32,4,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,20/01/2024,4,494.49
+405,39,4,LostFost,Ferramentas Criativas,São Paulo,13/12/2022,2,390.39
+406,11,1,PowerPro,Ferramentas Educacionais,Rio de Janeiro,01/12/2024,18,464.86
+407,55,3,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,22/10/2024,14,343.95
+408,72,1,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,06/11/2023,7,335.06
+409,25,3,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,01/04/2023,1,483.7
+410,52,4,LostFost,Ferramentas Criativas,São Paulo,14/10/2023,3,130.11
+411,70,3,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,12/10/2022,17,372.66
+412,26,1,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,12/09/2024,17,181.46
+413,37,5,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,23/07/2024,9,198.61
+414,41,3,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,11/11/2024,11,460.77
+415,20,2,LostFost,Ferramentas Criativas,Rio de Janeiro,21/01/2023,12,278.3
+416,24,4,PowerPro,Ferramentas Educacionais,Rio de Janeiro,01/12/2022,11,109.91
+417,21,4,PowerPro,Ferramentas Criativas,Belo Horizonte,17/11/2022,8,272.24
+418,68,3,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,13/11/2024,13,188.16
+419,82,3,UI/UX-K,Ferramentas Criativas,São Paulo,10/05/2022,16,109.55
+420,66,2,HargenXtudio,Ferramentas Criativas,São Paulo,07/05/2023,11,354.58
+421,61,4,PowerPro,Ferramentas Criativas,Belo Horizonte,28/09/2024,2,139.61
+422,31,4,HargenXtudio,Ferramentas Criativas,Belo Horizonte,08/09/2024,9,277.73
+423,29,4,CodeCode,Ferramentas Criativas,Rio de Janeiro,08/06/2022,13,238.6
+424,16,5,LostFost,Ferramentas Educacionais,Belo Horizonte,26/10/2023,12,284.55
+425,86,4,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,03/04/2024,2,223.57
+426,81,2,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,23/10/2022,3,381.6
+427,51,4,CodeCode,Ferramentas Criativas,Rio de Janeiro,12/02/2024,4,426.59
+428,73,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,05/12/2023,10,30.71
+429,39,5,PowerPro,Ferramentas Criativas,Belo Horizonte,01/07/2023,19,312.84
+430,49,4,PowerPro,Ferramentas Criativas,Rio de Janeiro,24/11/2024,14,488.04
+431,69,5,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,14/10/2023,9,215.53
+432,92,2,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,19/12/2022,4,121.73
+433,69,1,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,21/03/2022,8,182.65
+434,64,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,16/07/2023,3,155.82
+435,83,4,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,13/07/2024,1,29.06
+436,36,4,UI/UX-K,Ferramentas Criativas,Belo Horizonte,30/09/2024,15,444.47
+437,87,4,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,04/03/2022,17,148.27
+438,79,2,CodeCode,Ferramentas Educacionais,Rio de Janeiro,01/06/2022,3,125.3
+439,70,4,PowerPro,Ferramentas Criativas,São Paulo,29/04/2023,1,65.18
+440,70,1,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,03/10/2023,13,269.54
+441,72,5,CodeCode,Ferramentas Criativas,Belo Horizonte,26/06/2024,4,378.67
+442,85,4,PowerPro,Ferramentas Educacionais,Belo Horizonte,28/07/2024,20,124.07
+443,77,5,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,07/04/2024,10,34.59
+444,17,4,CodeCode,Ferramentas Educacionais,São Paulo,27/02/2023,1,459.17
+445,52,3,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,07/04/2023,17,493.08
+446,66,4,PowerPro,Ferramentas Criativas,Rio de Janeiro,01/03/2024,9,373.38
+447,23,4,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,12/05/2023,6,62.51
+448,68,5,PowerPro,Ferramentas Educacionais,Rio de Janeiro,11/10/2023,10,446.47
+449,79,2,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,12/10/2023,18,27.8
+450,97,2,CodeCode,Ferramentas Educacionais,Rio de Janeiro,16/09/2024,9,268.94
+451,80,5,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,11/03/2023,9,499.83
+452,80,4,UI/UX-K,Ferramentas Criativas,Belo Horizonte,29/05/2024,8,178.09
+453,77,1,HargenXtudio,Ferramentas Educacionais,São Paulo,15/11/2022,10,197.25
+454,87,1,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,01/06/2024,20,166.44
+455,52,5,CodeCode,Ferramentas Educacionais,Rio de Janeiro,13/03/2023,6,458.2
+456,99,5,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,06/09/2022,16,295.69
+457,87,5,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,01/03/2022,13,329.87
+458,46,5,HargenXtudio,Ferramentas Criativas,Belo Horizonte,29/11/2023,9,294.49
+459,97,3,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,29/07/2023,8,485.63
+460,65,3,HargenXtudio,Ferramentas Educacionais,São Paulo,26/01/2024,5,211.31
+461,97,3,LostFost,Ferramentas Educacionais,Rio de Janeiro,18/11/2023,10,263.28
+462,11,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,18/11/2023,11,284.71
+463,84,5,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,10/07/2022,19,460.37
+464,17,2,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,12/10/2022,20,189.12
+465,45,3,LostFost,Ferramentas Criativas,Rio de Janeiro,30/03/2022,19,138.73
+466,10,1,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,06/08/2024,17,491.46
+467,83,1,UI/UX-K,Ferramentas Educacionais,São Paulo,26/03/2023,19,49.85
+468,19,4,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,13/11/2022,1,118.32
+469,12,1,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,19/10/2022,4,160.62
+470,68,4,CodeCode,Ferramentas Educacionais,São Paulo,21/05/2022,17,332.73
+471,10,3,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,16/11/2024,13,337.42
+472,84,1,UI/UX-K,Ferramentas Criativas,Belo Horizonte,16/05/2024,12,417.07
+473,75,2,HargenXtudio,Ferramentas Educacionais,São Paulo,30/04/2024,14,50.36
+474,59,1,PowerPro,Ferramentas Criativas,São Paulo,05/11/2022,5,323.81
+475,85,3,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,30/12/2023,13,215.28
+476,38,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,28/03/2023,20,359.0
+477,43,5,CodeCode,Ferramentas Criativas,São Paulo,29/11/2024,12,32.89
+478,56,4,CodeCode,Ferramentas Criativas,São Paulo,15/11/2022,14,257.08
+479,60,1,CodeCode,Ferramentas Educacionais,Belo Horizonte,17/11/2022,1,284.78
+480,48,3,CodeCode,Ferramentas Criativas,Belo Horizonte,16/12/2022,8,445.39
+481,67,5,UI/UX-K,Ferramentas Criativas,Belo Horizonte,15/04/2024,5,176.12
+482,39,2,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,07/10/2023,18,388.69
+483,58,2,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,04/09/2023,12,152.76
+484,49,1,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,24/12/2022,15,377.2
+485,45,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,11/03/2023,13,373.17
+486,86,4,CodeCode,Ferramentas Criativas,Belo Horizonte,03/03/2024,7,357.36
+487,17,3,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,12/12/2023,4,232.55
+488,36,1,LostFost,Ferramentas Educacionais,Belo Horizonte,25/12/2024,10,235.15
+489,36,5,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,02/09/2024,13,26.7
+490,96,4,LostFost,Ferramentas de Desenvolvimento,São Paulo,27/04/2024,6,354.88
+491,51,3,HargenXtudio,Ferramentas Criativas,São Paulo,23/05/2023,13,281.99
+492,87,3,LostFost,Ferramentas Criativas,Rio de Janeiro,23/01/2024,19,379.78
+493,38,1,LostFost,Ferramentas Educacionais,Belo Horizonte,04/05/2024,20,465.77
+494,68,1,UI/UX-K,Ferramentas Educacionais,São Paulo,03/10/2023,13,339.48
+495,17,3,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,15/10/2024,11,358.45
+496,13,5,CodeCode,Ferramentas Educacionais,São Paulo,23/03/2022,18,417.23
+497,100,4,LostFost,Ferramentas Criativas,São Paulo,24/05/2024,16,416.51
+498,29,4,LostFost,Ferramentas Criativas,São Paulo,23/01/2023,19,460.4
+499,55,5,UI/UX-K,Ferramentas Educacionais,São Paulo,21/07/2024,13,276.07
+500,32,4,CodeCode,Ferramentas Educacionais,São Paulo,13/08/2023,3,119.92
+501,65,2,CodeCode,Ferramentas Educacionais,Rio de Janeiro,11/06/2022,17,146.07
+502,60,2,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,07/03/2023,8,405.49
+503,32,3,CodeCode,Ferramentas Educacionais,São Paulo,24/06/2024,3,41.19
+504,90,2,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,14/07/2024,4,20.92
+505,71,5,CodeCode,Ferramentas Criativas,São Paulo,17/08/2022,10,52.35
+506,77,5,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,27/12/2023,6,284.02
+507,98,1,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,06/06/2023,10,452.13
+508,94,2,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,18/07/2023,8,217.97
+509,88,1,LostFost,Ferramentas de Desenvolvimento,São Paulo,24/11/2022,20,69.82
+510,45,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,20/04/2023,2,150.55
+511,22,3,LostFost,Ferramentas Educacionais,São Paulo,02/01/2024,7,357.61
+512,31,5,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,23/05/2023,12,375.56
+513,17,4,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,22/01/2024,7,406.49
+514,41,1,LostFost,Ferramentas de Desenvolvimento,São Paulo,21/01/2023,3,278.66
+515,63,5,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,06/11/2024,10,226.87
+516,61,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,18/10/2023,20,245.08
+517,37,1,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,23/10/2024,9,234.61
+518,48,5,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,29/10/2023,15,67.87
+519,62,2,CodeCode,Ferramentas Criativas,Belo Horizonte,17/10/2024,17,149.24
+520,47,3,UI/UX-K,Ferramentas Educacionais,São Paulo,04/10/2023,18,396.78
+521,63,5,CodeCode,Ferramentas de Desenvolvimento,São Paulo,09/02/2023,9,359.17
+522,40,4,LostFost,Ferramentas Educacionais,Belo Horizonte,13/07/2023,3,137.37
+523,64,5,LostFost,Ferramentas Educacionais,Rio de Janeiro,18/02/2023,11,353.53
+524,68,3,PowerPro,Ferramentas Educacionais,Belo Horizonte,08/08/2022,5,301.34
+525,57,4,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,28/09/2022,4,413.18
+526,51,3,PowerPro,Ferramentas Criativas,Belo Horizonte,17/07/2023,12,457.29
+527,57,3,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,27/08/2022,10,59.29
+528,39,3,PowerPro,Ferramentas Criativas,São Paulo,21/04/2022,6,135.15
+529,28,1,PowerPro,Ferramentas Criativas,Belo Horizonte,28/10/2023,1,391.75
+530,48,5,LostFost,Ferramentas Criativas,Rio de Janeiro,18/01/2024,17,123.17
+531,92,3,LostFost,Ferramentas Criativas,Rio de Janeiro,30/01/2022,6,338.05
+532,43,1,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,17/04/2024,6,387.94
+533,22,3,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,11/05/2022,17,162.13
+534,67,2,LostFost,Ferramentas Educacionais,Rio de Janeiro,12/02/2024,10,77.16
+535,56,1,CodeCode,Ferramentas Criativas,São Paulo,09/08/2022,10,400.48
+536,60,3,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,04/09/2022,5,29.51
+537,86,5,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,17/07/2022,2,187.82
+538,88,4,LostFost,Ferramentas Criativas,Rio de Janeiro,20/11/2022,16,129.33
+539,42,5,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,23/09/2022,4,460.16
+540,85,5,CodeCode,Ferramentas Criativas,Belo Horizonte,29/03/2023,19,446.61
+541,14,3,UI/UX-K,Ferramentas Criativas,Belo Horizonte,25/12/2022,3,298.04
+542,97,2,HargenXtudio,Ferramentas Educacionais,São Paulo,01/09/2024,4,10.2
+543,47,5,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,31/08/2024,4,310.25
+544,96,4,CodeCode,Ferramentas Criativas,São Paulo,10/07/2023,13,24.7
+545,51,2,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,30/04/2024,1,481.99
+546,81,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,11/01/2023,5,385.22
+547,72,5,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,28/02/2024,20,75.05
+548,49,4,PowerPro,Ferramentas Criativas,São Paulo,30/07/2024,19,92.58
+549,81,1,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,16/04/2024,20,279.11
+550,15,1,CodeCode,Ferramentas de Desenvolvimento,São Paulo,08/01/2024,3,39.12
+551,38,4,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,20/03/2022,3,458.97
+552,48,3,CodeCode,Ferramentas de Desenvolvimento,São Paulo,13/11/2022,1,455.09
+553,46,4,PowerPro,Ferramentas Criativas,São Paulo,19/02/2023,1,394.64
+554,30,2,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,08/12/2022,4,368.98
+555,29,1,LostFost,Ferramentas Educacionais,Rio de Janeiro,20/05/2023,16,489.55
+556,34,1,HargenXtudio,Ferramentas Educacionais,São Paulo,19/06/2024,16,431.04
+557,59,2,PowerPro,Ferramentas Educacionais,Rio de Janeiro,28/10/2024,20,391.25
+558,18,2,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,18/01/2023,9,436.91
+559,97,5,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,27/06/2022,3,469.63
+560,24,3,LostFost,Ferramentas Criativas,Rio de Janeiro,03/11/2023,20,133.53
+561,38,1,CodeCode,Ferramentas Criativas,Belo Horizonte,26/07/2023,7,425.14
+562,10,3,LostFost,Ferramentas Criativas,São Paulo,17/02/2024,13,162.84
+563,80,5,LostFost,Ferramentas Educacionais,Rio de Janeiro,09/08/2024,4,407.23
+564,71,5,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,29/10/2024,5,482.39
+565,47,4,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,30/09/2024,6,427.09
+566,86,3,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,28/09/2023,5,455.42
+567,87,5,PowerPro,Ferramentas Educacionais,São Paulo,18/06/2023,1,354.19
+568,92,5,CodeCode,Ferramentas Educacionais,Rio de Janeiro,10/01/2023,10,157.08
+569,95,5,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,30/07/2022,14,241.89
+570,54,5,LostFost,Ferramentas Criativas,Rio de Janeiro,30/11/2022,8,95.53
+571,26,4,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,26/12/2022,20,307.64
+572,74,3,PowerPro,Ferramentas de Desenvolvimento,São Paulo,08/11/2023,14,183.38
+573,80,2,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,02/12/2022,2,245.77
+574,96,4,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,04/03/2023,9,404.12
+575,60,5,PowerPro,Ferramentas Educacionais,Belo Horizonte,19/05/2023,2,187.4
+576,91,5,LostFost,Ferramentas Criativas,Rio de Janeiro,30/09/2023,15,171.82
+577,96,2,HargenXtudio,Ferramentas Criativas,Belo Horizonte,07/10/2022,6,67.62
+578,55,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,13/10/2022,16,190.23
+579,36,2,LostFost,Ferramentas Criativas,Belo Horizonte,10/10/2023,16,188.61
+580,25,2,PowerPro,Ferramentas Criativas,Belo Horizonte,25/09/2024,6,184.45
+581,100,3,CodeCode,Ferramentas de Desenvolvimento,São Paulo,30/09/2022,8,44.54
+582,85,5,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,16/07/2024,20,436.37
+583,29,4,CodeCode,Ferramentas Educacionais,Belo Horizonte,23/06/2023,13,96.36
+584,54,3,LostFost,Ferramentas Educacionais,São Paulo,12/10/2022,4,272.75
+585,37,5,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,03/06/2024,15,275.65
+586,24,2,PowerPro,Ferramentas Criativas,Belo Horizonte,31/07/2022,1,31.83
+587,96,4,PowerPro,Ferramentas Criativas,São Paulo,15/01/2024,7,145.8
+588,52,3,PowerPro,Ferramentas de Desenvolvimento,São Paulo,09/02/2023,4,196.53
+589,16,3,LostFost,Ferramentas Educacionais,Belo Horizonte,22/12/2024,6,97.66
+590,96,3,PowerPro,Ferramentas de Desenvolvimento,São Paulo,09/09/2024,1,264.78
+591,99,5,CodeCode,Ferramentas de Desenvolvimento,São Paulo,18/07/2022,16,397.07
+592,72,5,UI/UX-K,Ferramentas Criativas,São Paulo,20/02/2023,9,214.06
+593,38,1,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,16/01/2023,17,361.95
+594,76,5,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,29/12/2024,9,90.3
+595,90,1,CodeCode,Ferramentas Criativas,Belo Horizonte,29/11/2024,2,428.22
+596,34,3,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,23/08/2022,8,312.98
+597,78,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,10/12/2024,13,12.34
+598,78,4,HargenXtudio,Ferramentas Criativas,Belo Horizonte,28/01/2023,2,461.49
+599,13,2,LostFost,Ferramentas Educacionais,Rio de Janeiro,08/12/2022,18,79.04
+600,37,5,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,13/08/2022,4,367.91
+601,59,4,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,28/03/2023,16,446.29
+602,57,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,23/08/2022,13,449.08
+603,74,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,24/12/2022,10,156.19
+604,31,3,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,26/07/2023,14,456.08
+605,54,5,CodeCode,Ferramentas Criativas,São Paulo,17/04/2024,14,479.63
+606,40,4,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,23/09/2022,8,188.67
+607,40,5,LostFost,Ferramentas de Desenvolvimento,São Paulo,03/10/2022,10,491.47
+608,48,4,PowerPro,Ferramentas Educacionais,Rio de Janeiro,21/01/2022,10,410.21
+609,49,2,UI/UX-K,Ferramentas Criativas,São Paulo,30/11/2023,6,392.76
+610,42,4,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,11/06/2022,6,69.85
+611,57,2,LostFost,Ferramentas de Desenvolvimento,São Paulo,22/08/2024,9,27.54
+612,10,4,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,18/09/2022,7,129.62
+613,46,2,LostFost,Ferramentas Educacionais,Rio de Janeiro,14/11/2022,7,218.51
+614,28,1,PowerPro,Ferramentas Educacionais,Rio de Janeiro,30/01/2024,3,364.39
+615,56,1,UI/UX-K,Ferramentas Criativas,Belo Horizonte,15/12/2023,2,450.14
+616,57,3,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,15/05/2023,12,412.69
+617,55,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,14/12/2024,19,68.96
+618,15,4,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,02/09/2023,4,436.2
+619,13,4,PowerPro,Ferramentas Criativas,Belo Horizonte,02/08/2023,6,270.57
+620,45,4,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,19/07/2022,16,203.13
+621,49,2,PowerPro,Ferramentas Criativas,São Paulo,30/09/2024,12,65.26
+622,89,4,LostFost,Ferramentas Criativas,São Paulo,12/05/2024,11,60.79
+623,35,1,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,27/09/2024,7,429.72
+624,97,2,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,06/05/2023,10,388.19
+625,62,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,22/02/2024,18,41.56
+626,40,3,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,29/08/2022,6,59.04
+627,55,1,HargenXtudio,Ferramentas Criativas,Belo Horizonte,30/06/2022,11,178.72
+628,98,2,CodeCode,Ferramentas Educacionais,São Paulo,12/08/2022,7,230.41
+629,69,4,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,19/02/2023,13,365.82
+630,63,5,PowerPro,Ferramentas de Desenvolvimento,São Paulo,23/02/2023,4,74.11
+631,66,4,CodeCode,Ferramentas de Desenvolvimento,São Paulo,03/04/2022,1,235.02
+632,10,2,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,15/07/2024,4,276.55
+633,60,5,HargenXtudio,Ferramentas Criativas,São Paulo,29/03/2024,9,169.42
+634,100,4,PowerPro,Ferramentas Educacionais,Belo Horizonte,06/07/2024,14,207.9
+635,43,3,LostFost,Ferramentas Educacionais,Rio de Janeiro,16/07/2022,13,386.63
+636,100,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,17/03/2022,19,55.92
+637,25,1,PowerPro,Ferramentas Criativas,São Paulo,20/04/2024,13,91.57
+638,21,5,HargenXtudio,Ferramentas Criativas,Belo Horizonte,05/01/2023,20,35.88
+639,35,4,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,29/12/2024,14,92.81
+640,79,2,CodeCode,Ferramentas Criativas,Rio de Janeiro,24/10/2024,13,150.26
+641,81,4,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,16/09/2022,7,328.3
+642,44,5,PowerPro,Ferramentas Educacionais,Rio de Janeiro,08/03/2023,13,51.13
+643,83,5,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,11/10/2023,10,96.03
+644,93,4,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,24/11/2023,11,268.87
+645,94,2,LostFost,Ferramentas de Desenvolvimento,São Paulo,20/05/2022,9,95.69
+646,27,5,LostFost,Ferramentas de Desenvolvimento,São Paulo,12/12/2022,5,86.5
+647,78,4,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,30/08/2022,17,474.5
+648,69,1,LostFost,Ferramentas Educacionais,São Paulo,20/04/2022,1,56.52
+649,11,2,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,25/02/2022,8,417.7
+650,90,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,17/02/2024,7,86.11
+651,25,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,04/03/2023,3,124.82
+652,49,2,LostFost,Ferramentas de Desenvolvimento,São Paulo,08/01/2024,19,65.15
+653,84,1,PowerPro,Ferramentas Criativas,Belo Horizonte,03/07/2022,6,459.7
+654,38,5,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,13/08/2024,5,135.23
+655,11,1,LostFost,Ferramentas Criativas,Belo Horizonte,25/06/2023,14,219.7
+656,13,4,PowerPro,Ferramentas Educacionais,Belo Horizonte,31/05/2022,18,342.81
+657,45,4,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,18/12/2023,15,113.86
+658,74,1,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,23/11/2023,12,80.01
+659,14,1,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,08/09/2024,17,142.53
+660,77,5,LostFost,Ferramentas Educacionais,Rio de Janeiro,13/02/2022,6,331.59
+661,82,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,05/07/2023,2,263.25
+662,29,1,PowerPro,Ferramentas Criativas,Belo Horizonte,19/07/2022,17,436.75
+663,70,1,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,10/02/2022,4,211.89
+664,60,2,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,12/10/2023,9,259.62
+665,24,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,19/06/2022,1,169.73
+666,73,1,PowerPro,Ferramentas de Desenvolvimento,São Paulo,26/12/2024,19,11.07
+667,40,5,CodeCode,Ferramentas Educacionais,Rio de Janeiro,13/11/2023,10,121.91
+668,11,1,UI/UX-K,Ferramentas Criativas,Belo Horizonte,12/10/2024,20,72.4
+669,87,4,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,11/03/2023,20,476.19
+670,19,5,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,25/03/2024,4,429.49
+671,88,2,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,17/01/2024,9,138.77
+672,75,3,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,18/04/2022,4,208.75
+673,27,1,UI/UX-K,Ferramentas Educacionais,São Paulo,14/04/2024,15,65.79
+674,36,1,PowerPro,Ferramentas Educacionais,São Paulo,23/02/2024,7,107.17
+675,58,4,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,02/10/2023,18,353.07
+676,69,3,PowerPro,Ferramentas Criativas,Belo Horizonte,31/03/2024,18,370.0
+677,85,3,LostFost,Ferramentas Educacionais,Rio de Janeiro,11/01/2024,19,490.31
+678,49,1,PowerPro,Ferramentas Educacionais,Rio de Janeiro,05/06/2022,8,445.38
+679,14,4,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,23/06/2022,8,280.13
+680,21,4,HargenXtudio,Ferramentas Criativas,São Paulo,16/11/2022,17,177.0
+681,75,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,04/04/2024,11,226.49
+682,53,4,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,02/02/2024,8,347.53
+683,18,5,CodeCode,Ferramentas Criativas,Rio de Janeiro,16/02/2023,16,396.71
+684,77,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,24/05/2023,10,203.74
+685,23,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,23/02/2024,16,175.21
+686,46,4,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,26/06/2024,13,75.38
+687,23,1,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,24/04/2024,19,252.42
+688,96,3,UI/UX-K,Ferramentas Criativas,Belo Horizonte,01/07/2022,4,339.28
+689,49,1,LostFost,Ferramentas Educacionais,São Paulo,21/05/2022,17,424.53
+690,10,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,29/08/2023,7,153.36
+691,91,2,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,19/07/2024,10,457.0
+692,43,1,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,25/08/2022,2,18.61
+693,90,2,HargenXtudio,Ferramentas Criativas,São Paulo,21/07/2022,2,437.97
+694,57,2,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,17/06/2022,18,107.9
+695,36,2,LostFost,Ferramentas Criativas,São Paulo,15/06/2022,17,448.24
+696,29,1,CodeCode,Ferramentas Educacionais,Belo Horizonte,14/04/2023,8,106.18
+697,98,3,PowerPro,Ferramentas Educacionais,Rio de Janeiro,10/12/2022,13,350.48
+698,87,3,CodeCode,Ferramentas Educacionais,Belo Horizonte,24/03/2022,8,374.52
+699,40,5,PowerPro,Ferramentas de Desenvolvimento,São Paulo,03/02/2022,17,247.02
+700,45,1,CodeCode,Ferramentas Criativas,Rio de Janeiro,09/02/2022,11,182.8
+701,77,4,LostFost,Ferramentas Criativas,Belo Horizonte,14/06/2024,12,182.86
+702,11,1,LostFost,Ferramentas Educacionais,São Paulo,22/05/2024,9,407.12
+703,97,1,CodeCode,Ferramentas Educacionais,Belo Horizonte,05/02/2023,18,402.35
+704,67,2,LostFost,Ferramentas Criativas,Belo Horizonte,01/04/2022,5,337.15
+705,42,3,HargenXtudio,Ferramentas Educacionais,São Paulo,22/04/2024,2,480.99
+706,18,4,CodeCode,Ferramentas Educacionais,Rio de Janeiro,18/06/2022,18,198.78
+707,18,2,UI/UX-K,Ferramentas Criativas,Belo Horizonte,27/02/2022,14,43.59
+708,34,4,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,07/03/2024,12,498.54
+709,17,4,CodeCode,Ferramentas Criativas,Rio de Janeiro,11/08/2022,19,87.63
+710,94,2,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,08/05/2023,5,51.99
+711,93,2,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,20/04/2023,11,259.86
+712,100,2,LostFost,Ferramentas Educacionais,Rio de Janeiro,12/01/2022,19,335.43
+713,70,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,20/08/2024,1,176.27
+714,41,4,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,13/10/2022,18,445.65
+715,13,2,PowerPro,Ferramentas Criativas,Rio de Janeiro,12/10/2023,5,239.14
+716,85,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,18/08/2024,7,187.93
+717,45,4,PowerPro,Ferramentas Educacionais,Rio de Janeiro,27/03/2024,4,458.98
+718,66,5,PowerPro,Ferramentas Educacionais,Rio de Janeiro,17/02/2024,4,297.09
+719,91,3,HargenXtudio,Ferramentas Criativas,Belo Horizonte,24/08/2024,8,39.7
+720,83,5,PowerPro,Ferramentas Educacionais,Belo Horizonte,20/09/2024,6,79.58
+721,32,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,11/06/2024,13,377.41
+722,39,5,CodeCode,Ferramentas Educacionais,São Paulo,20/10/2022,15,331.53
+723,52,4,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,10/06/2022,20,18.45
+724,15,5,LostFost,Ferramentas Educacionais,São Paulo,07/06/2022,7,266.05
+725,84,3,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,25/10/2024,18,234.57
+726,22,2,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,16/09/2024,1,280.43
+727,50,4,HargenXtudio,Ferramentas Criativas,São Paulo,27/02/2024,7,225.39
+728,72,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,16/02/2024,12,295.54
+729,52,1,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,27/01/2022,16,261.14
+730,98,1,UI/UX-K,Ferramentas Educacionais,São Paulo,01/02/2024,10,320.83
+731,24,5,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,09/03/2022,10,252.21
+732,29,1,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,09/05/2023,9,252.25
+733,80,4,HargenXtudio,Ferramentas Educacionais,São Paulo,24/04/2022,2,368.61
+734,85,4,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,08/09/2022,12,461.21
+735,100,4,CodeCode,Ferramentas Educacionais,Rio de Janeiro,28/12/2023,17,430.71
+736,15,3,PowerPro,Ferramentas de Desenvolvimento,São Paulo,04/03/2024,13,74.74
+737,50,4,UI/UX-K,Ferramentas Criativas,São Paulo,15/05/2023,18,286.21
+738,11,1,HargenXtudio,Ferramentas Educacionais,São Paulo,30/06/2024,7,457.39
+739,50,3,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,25/08/2023,17,83.58
+740,12,1,CodeCode,Ferramentas Educacionais,São Paulo,01/04/2023,5,282.4
+741,49,4,LostFost,Ferramentas Educacionais,São Paulo,25/04/2024,19,259.29
+742,49,3,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,01/09/2023,15,169.3
+743,99,5,UI/UX-K,Ferramentas Educacionais,São Paulo,22/06/2024,16,17.44
+744,28,1,UI/UX-K,Ferramentas Criativas,Belo Horizonte,26/05/2024,17,279.81
+745,71,3,LostFost,Ferramentas Educacionais,São Paulo,01/12/2023,18,330.97
+746,48,3,UI/UX-K,Ferramentas Criativas,São Paulo,23/01/2022,13,184.48
+747,21,1,PowerPro,Ferramentas Criativas,Rio de Janeiro,07/07/2022,12,270.88
+748,41,1,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,14/10/2024,3,43.3
+749,45,3,CodeCode,Ferramentas Educacionais,São Paulo,18/10/2022,10,150.67
+750,52,4,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,01/08/2023,6,136.58
+751,79,2,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,15/10/2024,19,272.29
+752,16,3,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,04/07/2024,15,355.13
+753,88,1,PowerPro,Ferramentas Educacionais,Rio de Janeiro,28/04/2023,11,258.63
+754,13,5,HargenXtudio,Ferramentas Criativas,Belo Horizonte,11/03/2024,20,61.62
+755,51,3,UI/UX-K,Ferramentas Criativas,São Paulo,03/09/2023,10,121.07
+756,30,5,CodeCode,Ferramentas Criativas,Rio de Janeiro,21/10/2022,9,428.39
+757,51,1,PowerPro,Ferramentas Criativas,São Paulo,02/07/2023,3,297.79
+758,89,4,LostFost,Ferramentas Educacionais,Belo Horizonte,10/02/2022,7,48.2
+759,33,1,CodeCode,Ferramentas de Desenvolvimento,São Paulo,21/12/2022,11,186.41
+760,98,3,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,19/01/2023,17,346.35
+761,75,2,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,27/03/2023,6,184.39
+762,15,3,LostFost,Ferramentas Educacionais,Belo Horizonte,20/11/2022,13,78.93
+763,84,4,CodeCode,Ferramentas Educacionais,Belo Horizonte,05/09/2022,17,94.75
+764,41,3,UI/UX-K,Ferramentas Criativas,São Paulo,23/10/2024,6,204.6
+765,85,2,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,25/09/2024,13,228.36
+766,72,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,12/03/2022,5,298.31
+767,51,5,PowerPro,Ferramentas Educacionais,Rio de Janeiro,25/03/2024,17,396.82
+768,45,1,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,25/04/2023,15,88.2
+769,40,3,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,31/01/2023,17,125.55
+770,83,4,PowerPro,Ferramentas Educacionais,Rio de Janeiro,12/03/2022,18,148.79
+771,40,3,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,30/03/2023,8,41.79
+772,23,1,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,05/02/2023,9,446.91
+773,96,4,LostFost,Ferramentas Criativas,São Paulo,29/12/2024,16,86.11
+774,37,4,LostFost,Ferramentas Criativas,São Paulo,29/05/2022,18,493.02
+775,89,5,LostFost,Ferramentas Educacionais,Belo Horizonte,22/09/2022,2,426.55
+776,45,5,LostFost,Ferramentas Educacionais,Belo Horizonte,15/07/2022,5,236.65
+777,77,1,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,18/05/2023,15,463.62
+778,93,4,CodeCode,Ferramentas de Desenvolvimento,São Paulo,21/06/2024,13,412.71
+779,55,2,LostFost,Ferramentas Criativas,Belo Horizonte,22/02/2022,10,276.94
+780,38,5,CodeCode,Ferramentas Educacionais,Rio de Janeiro,13/08/2023,20,419.64
+781,91,5,HargenXtudio,Ferramentas Criativas,São Paulo,01/08/2022,14,10.65
+782,67,5,CodeCode,Ferramentas Criativas,Rio de Janeiro,15/07/2022,5,463.85
+783,96,1,HargenXtudio,Ferramentas Criativas,São Paulo,18/02/2022,12,102.59
+784,89,5,LostFost,Ferramentas Educacionais,Belo Horizonte,01/09/2024,18,16.23
+785,66,5,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,23/07/2023,19,391.18
+786,71,5,PowerPro,Ferramentas Educacionais,São Paulo,06/09/2022,2,286.79
+787,83,1,HargenXtudio,Ferramentas Educacionais,São Paulo,10/05/2024,5,138.22
+788,15,2,PowerPro,Ferramentas Educacionais,Rio de Janeiro,27/01/2022,16,453.66
+789,48,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,06/10/2023,10,63.03
+790,12,5,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,11/10/2023,20,450.87
+791,68,2,PowerPro,Ferramentas Criativas,Rio de Janeiro,27/09/2024,18,278.02
+792,31,5,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,03/04/2022,1,371.64
+793,60,5,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,26/08/2023,19,375.9
+794,32,2,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,10/06/2024,20,158.42
+795,65,1,UI/UX-K,Ferramentas Educacionais,São Paulo,22/03/2022,17,51.46
+796,26,3,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,01/01/2022,7,429.29
+797,39,5,PowerPro,Ferramentas Educacionais,Belo Horizonte,11/09/2022,12,214.51
+798,29,4,LostFost,Ferramentas Educacionais,São Paulo,22/03/2024,11,154.12
+799,94,3,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,12/05/2024,17,111.96
+800,53,4,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,09/06/2022,12,54.95
+801,50,4,HargenXtudio,Ferramentas Criativas,Belo Horizonte,14/10/2024,1,109.32
+802,54,4,UI/UX-K,Ferramentas Criativas,Belo Horizonte,02/03/2022,2,125.81
+803,50,2,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,22/12/2024,12,121.33
+804,82,5,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,01/07/2023,6,304.47
+805,47,2,LostFost,Ferramentas Criativas,Rio de Janeiro,25/08/2022,16,115.15
+806,33,3,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,01/04/2024,8,242.19
+807,43,3,HargenXtudio,Ferramentas Criativas,Belo Horizonte,26/03/2023,12,260.19
+808,15,3,PowerPro,Ferramentas Criativas,Belo Horizonte,13/02/2024,20,346.54
+809,53,1,LostFost,Ferramentas de Desenvolvimento,São Paulo,19/12/2022,11,105.87
+810,61,1,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,20/06/2022,5,34.16
+811,70,2,LostFost,Ferramentas Criativas,Belo Horizonte,29/11/2023,2,147.77
+812,73,2,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,24/06/2022,6,339.27
+813,53,2,PowerPro,Ferramentas Criativas,Belo Horizonte,09/10/2023,18,67.29
+814,49,5,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,16/11/2024,16,178.61
+815,22,4,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,23/01/2022,14,354.83
+816,43,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,14/11/2024,1,42.1
+817,19,3,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,04/02/2022,2,418.4
+818,27,3,UI/UX-K,Ferramentas Criativas,São Paulo,05/02/2023,2,378.27
+819,41,5,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,04/02/2022,15,52.33
+820,52,5,PowerPro,Ferramentas de Desenvolvimento,São Paulo,19/07/2024,7,437.41
+821,20,1,CodeCode,Ferramentas de Desenvolvimento,São Paulo,03/02/2024,19,370.73
+822,79,3,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,25/06/2023,3,91.51
+823,69,2,CodeCode,Ferramentas Criativas,Rio de Janeiro,19/01/2022,8,42.72
+824,61,2,CodeCode,Ferramentas Criativas,São Paulo,18/05/2024,16,187.78
+825,92,4,LostFost,Ferramentas Criativas,São Paulo,28/03/2023,7,410.48
+826,85,4,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,18/10/2023,3,305.27
+827,25,5,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,19/11/2024,19,268.84
+828,85,1,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,15/05/2023,5,299.89
+829,85,2,CodeCode,Ferramentas Educacionais,Rio de Janeiro,11/03/2022,18,154.47
+830,89,5,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,30/06/2022,9,317.96
+831,66,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,17/11/2022,5,208.6
+832,40,3,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,07/02/2022,18,377.2
+833,82,2,LostFost,Ferramentas Criativas,Belo Horizonte,05/01/2022,3,245.64
+834,61,5,PowerPro,Ferramentas Educacionais,Belo Horizonte,01/10/2023,7,345.32
+835,83,3,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,29/04/2022,2,401.72
+836,39,5,CodeCode,Ferramentas Educacionais,São Paulo,10/09/2023,13,163.29
+837,43,4,CodeCode,Ferramentas Educacionais,Rio de Janeiro,08/03/2022,1,141.4
+838,29,5,PowerPro,Ferramentas Criativas,São Paulo,16/08/2022,6,300.69
+839,86,4,CodeCode,Ferramentas Criativas,Belo Horizonte,11/02/2024,10,199.41
+840,43,5,LostFost,Ferramentas Educacionais,Belo Horizonte,04/10/2024,6,385.86
+841,99,1,LostFost,Ferramentas de Desenvolvimento,São Paulo,15/01/2024,2,48.94
+842,73,4,CodeCode,Ferramentas Criativas,Rio de Janeiro,11/03/2023,4,134.13
+843,41,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,10/11/2022,5,247.79
+844,56,4,PowerPro,Ferramentas Criativas,São Paulo,15/06/2023,12,33.75
+845,59,4,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,25/08/2022,14,213.97
+846,50,4,CodeCode,Ferramentas Criativas,Belo Horizonte,03/01/2022,2,400.82
+847,78,2,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,05/12/2022,6,419.2
+848,80,1,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,16/05/2024,9,145.93
+849,95,4,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,12/07/2023,17,368.25
+850,74,5,LostFost,Ferramentas Criativas,São Paulo,28/09/2024,17,99.63
+851,60,3,LostFost,Ferramentas Educacionais,São Paulo,07/03/2023,9,407.02
+852,55,5,LostFost,Ferramentas Educacionais,Belo Horizonte,11/10/2023,12,253.34
+853,18,1,CodeCode,Ferramentas Criativas,São Paulo,25/02/2024,11,384.68
+854,59,2,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,28/07/2024,11,463.82
+855,55,3,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,12/05/2022,12,420.89
+856,45,5,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,20/07/2023,11,147.3
+857,13,3,LostFost,Ferramentas Criativas,Rio de Janeiro,18/11/2024,14,100.85
+858,37,4,LostFost,Ferramentas Criativas,São Paulo,29/07/2022,17,241.5
+859,10,1,CodeCode,Ferramentas Educacionais,Belo Horizonte,09/11/2022,1,114.77
+860,83,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,11/05/2022,5,137.51
+861,13,1,UI/UX-K,Ferramentas Educacionais,São Paulo,13/02/2022,19,283.32
+862,93,1,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,27/11/2024,18,443.75
+863,61,2,HargenXtudio,Ferramentas Educacionais,São Paulo,10/09/2022,1,246.91
+864,44,3,CodeCode,Ferramentas Educacionais,Rio de Janeiro,13/12/2023,16,152.4
+865,14,3,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,25/07/2024,20,20.7
+866,85,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,30/08/2024,3,168.82
+867,96,4,LostFost,Ferramentas de Desenvolvimento,São Paulo,22/05/2024,7,320.28
+868,91,2,LostFost,Ferramentas Criativas,Rio de Janeiro,08/03/2023,5,497.91
+869,54,2,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,12/04/2022,18,444.79
+870,76,2,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,15/08/2022,16,31.2
+871,43,3,PowerPro,Ferramentas Educacionais,São Paulo,03/04/2022,7,477.77
+872,46,3,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,25/09/2022,3,482.68
+873,33,5,HargenXtudio,Ferramentas Criativas,São Paulo,03/05/2023,4,421.96
+874,29,2,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,20/06/2023,19,266.63
+875,43,2,HargenXtudio,Ferramentas Criativas,Belo Horizonte,16/05/2024,5,157.08
+876,22,1,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,07/05/2023,3,308.57
+877,75,5,LostFost,Ferramentas Educacionais,Rio de Janeiro,20/05/2023,9,209.15
+878,42,5,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,23/01/2022,3,228.26
+879,21,1,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,25/05/2023,18,499.44
+880,75,3,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,05/02/2023,8,74.71
+881,38,5,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,27/10/2023,10,22.84
+882,76,3,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,05/06/2023,4,180.35
+883,42,5,CodeCode,Ferramentas Criativas,Belo Horizonte,14/01/2022,15,360.26
+884,43,2,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,29/09/2023,15,419.9
+885,14,1,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,22/08/2023,11,420.2
+886,46,2,PowerPro,Ferramentas Educacionais,Belo Horizonte,10/03/2024,17,348.14
+887,48,3,CodeCode,Ferramentas Educacionais,Belo Horizonte,14/03/2023,10,314.75
+888,44,1,PowerPro,Ferramentas Criativas,São Paulo,14/09/2022,20,205.31
+889,14,2,CodeCode,Ferramentas Educacionais,Rio de Janeiro,09/04/2022,11,23.98
+890,50,3,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,11/12/2023,19,58.55
+891,60,4,LostFost,Ferramentas Criativas,São Paulo,03/02/2022,5,211.52
+892,91,5,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,31/05/2022,17,328.62
+893,51,3,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,22/10/2022,7,456.95
+894,100,4,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,12/10/2023,12,458.33
+895,23,4,CodeCode,Ferramentas de Desenvolvimento,São Paulo,13/04/2024,16,247.25
+896,46,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,16/11/2023,19,262.68
+897,70,2,LostFost,Ferramentas Educacionais,São Paulo,08/07/2024,19,395.56
+898,38,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,03/05/2024,7,292.92
+899,62,4,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,19/04/2023,12,421.51
+900,42,5,LostFost,Ferramentas Educacionais,São Paulo,12/05/2022,10,144.12
+901,67,2,LostFost,Ferramentas Criativas,Rio de Janeiro,04/07/2024,17,182.22
+902,28,3,LostFost,Ferramentas Educacionais,Rio de Janeiro,04/11/2023,18,370.73
+903,93,5,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,31/12/2023,6,137.64
+904,71,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,05/08/2022,10,33.92
+905,51,5,PowerPro,Ferramentas Criativas,São Paulo,18/09/2023,15,422.96
+906,31,2,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,12/03/2024,13,331.49
+907,31,5,CodeCode,Ferramentas de Desenvolvimento,São Paulo,15/12/2024,10,57.39
+908,23,1,LostFost,Ferramentas Educacionais,São Paulo,13/12/2022,12,362.22
+909,36,5,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,12/04/2023,1,398.61
+910,14,2,PowerPro,Ferramentas Criativas,Belo Horizonte,09/10/2023,20,38.82
+911,35,1,LostFost,Ferramentas Criativas,Belo Horizonte,22/01/2024,1,487.76
+912,29,3,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,27/02/2022,12,204.77
+913,32,2,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,22/06/2024,1,74.0
+914,53,4,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,02/05/2022,19,243.67
+915,28,2,UI/UX-K,Ferramentas Educacionais,São Paulo,20/01/2024,14,217.33
+916,23,3,PowerPro,Ferramentas Criativas,Belo Horizonte,31/08/2023,4,151.55
+917,43,1,CodeCode,Ferramentas de Desenvolvimento,São Paulo,27/12/2024,16,400.32
+918,63,3,LostFost,Ferramentas Criativas,Belo Horizonte,24/02/2023,16,491.0
+919,10,2,CodeCode,Ferramentas de Desenvolvimento,São Paulo,19/11/2023,6,466.2
+920,38,4,CodeCode,Ferramentas Criativas,Belo Horizonte,26/12/2024,17,67.71
+921,58,2,CodeCode,Ferramentas Criativas,São Paulo,26/01/2023,10,480.18
+922,94,3,UI/UX-K,Ferramentas Criativas,São Paulo,02/01/2024,18,151.53
+923,11,5,PowerPro,Ferramentas Criativas,São Paulo,21/07/2023,20,315.65
+924,74,1,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,06/02/2023,17,247.58
+925,99,2,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,01/11/2022,20,247.96
+926,46,2,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,06/04/2023,10,42.4
+927,63,1,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,03/04/2023,3,444.79
+928,21,5,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,29/01/2022,1,251.07
+929,42,2,HargenXtudio,Ferramentas Criativas,São Paulo,30/01/2024,2,382.57
+930,50,3,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,15/06/2023,6,289.92
+931,31,3,PowerPro,Ferramentas Educacionais,Rio de Janeiro,28/02/2022,11,76.91
+932,89,3,HargenXtudio,Ferramentas Criativas,São Paulo,25/04/2022,1,52.73
+933,100,2,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,09/08/2022,14,373.26
+934,17,1,CodeCode,Ferramentas Educacionais,São Paulo,12/01/2024,4,391.85
+935,95,2,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,11/11/2024,5,259.96
+936,78,3,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,06/12/2023,17,302.22
+937,93,1,HargenXtudio,Ferramentas Educacionais,São Paulo,11/10/2022,16,326.14
+938,67,5,CodeCode,Ferramentas Criativas,Rio de Janeiro,13/02/2023,14,402.06
+939,52,5,PowerPro,Ferramentas Criativas,Belo Horizonte,03/12/2022,17,303.62
+940,77,1,LostFost,Ferramentas de Desenvolvimento,São Paulo,04/04/2022,14,78.03
+941,96,1,CodeCode,Ferramentas Criativas,Belo Horizonte,28/08/2023,16,29.01
+942,34,5,LostFost,Ferramentas Educacionais,Belo Horizonte,18/07/2023,10,169.16
+943,62,5,PowerPro,Ferramentas Criativas,São Paulo,16/05/2023,16,477.75
+944,38,3,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,09/05/2022,10,197.63
+945,65,2,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,27/10/2023,15,444.45
+946,94,3,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,15/09/2024,7,249.72
+947,19,5,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,14/01/2024,11,147.94
+948,42,1,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,05/02/2022,12,267.37
+949,55,1,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,12/02/2022,14,146.41
+950,99,5,PowerPro,Ferramentas Educacionais,Belo Horizonte,07/10/2022,5,436.57
+951,39,4,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,08/05/2022,6,223.44
+952,76,5,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,16/09/2023,4,93.37
+953,29,4,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,19/09/2024,18,86.28
+954,14,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,28/06/2024,15,347.32
+955,45,5,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,15/02/2022,12,153.93
+956,80,4,LostFost,Ferramentas Criativas,São Paulo,02/11/2024,9,488.35
+957,49,1,CodeCode,Ferramentas Criativas,São Paulo,07/02/2022,4,139.86
+958,51,4,LostFost,Ferramentas Criativas,São Paulo,07/12/2024,4,409.08
+959,32,4,HargenXtudio,Ferramentas Educacionais,São Paulo,30/01/2022,1,261.17
+960,28,4,LostFost,Ferramentas Criativas,São Paulo,11/02/2024,5,47.26
+961,89,1,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,10/07/2024,3,69.61
+962,39,1,CodeCode,Ferramentas Educacionais,Belo Horizonte,05/07/2024,2,443.08
+963,44,4,CodeCode,Ferramentas Educacionais,Belo Horizonte,15/01/2022,7,173.97
+964,83,2,CodeCode,Ferramentas Criativas,São Paulo,04/03/2023,12,285.7
+965,84,5,PowerPro,Ferramentas Criativas,São Paulo,28/02/2023,15,457.34
+966,52,5,LostFost,Ferramentas Educacionais,São Paulo,18/09/2022,3,381.17
+967,29,2,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,18/07/2024,5,335.97
+968,91,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,08/11/2022,8,266.0
+969,96,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,24/04/2023,19,407.21
+970,32,1,PowerPro,Ferramentas Criativas,Rio de Janeiro,03/05/2023,11,189.12
+971,27,4,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,20/07/2022,10,206.05
+972,37,1,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,06/05/2023,3,430.67
+973,16,3,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,04/05/2022,2,195.91
+974,68,5,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,18/12/2023,18,144.69
+975,38,2,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,29/06/2022,20,270.72
+976,35,5,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,20/06/2022,10,35.08
+977,13,3,UI/UX-K,Ferramentas Educacionais,São Paulo,10/12/2023,15,223.91
+978,19,5,CodeCode,Ferramentas Criativas,Rio de Janeiro,30/04/2023,8,380.05
+979,75,3,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,30/09/2024,6,165.95
+980,48,1,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,05/11/2023,6,395.09
+981,93,3,PowerPro,Ferramentas Criativas,São Paulo,12/10/2022,5,94.83
+982,55,4,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,31/03/2023,4,453.97
+983,22,5,CodeCode,Ferramentas Criativas,São Paulo,22/03/2023,8,351.76
+984,47,5,CodeCode,Ferramentas Criativas,Belo Horizonte,06/09/2022,15,351.76
+985,57,2,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,02/02/2022,18,183.54
+986,72,5,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,11/10/2022,19,371.08
+987,73,3,CodeCode,Ferramentas Criativas,Belo Horizonte,31/03/2023,17,449.41
+988,18,3,PowerPro,Ferramentas Educacionais,São Paulo,04/07/2022,11,391.56
+989,63,4,PowerPro,Ferramentas Educacionais,Rio de Janeiro,25/10/2023,3,326.54
+990,40,5,PowerPro,Ferramentas Educacionais,Rio de Janeiro,10/04/2022,20,361.71
+991,44,2,HargenXtudio,Ferramentas Educacionais,São Paulo,15/11/2022,16,415.84
+992,35,3,CodeCode,Ferramentas Criativas,Rio de Janeiro,28/02/2023,7,442.86
+993,56,1,CodeCode,Ferramentas de Desenvolvimento,São Paulo,26/06/2022,9,16.11
+994,12,5,UI/UX-K,Ferramentas Criativas,São Paulo,22/09/2024,19,484.95
+995,43,4,LostFost,Ferramentas Educacionais,Belo Horizonte,27/02/2023,15,203.85
+996,13,1,PowerPro,Ferramentas Criativas,Rio de Janeiro,06/10/2022,13,19.77
+997,64,4,LostFost,Ferramentas Criativas,Belo Horizonte,11/11/2024,1,456.45
+998,35,3,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,13/03/2024,3,430.23
+999,54,5,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,12/07/2024,5,14.08
+1000,17,2,PowerPro,Ferramentas Educacionais,Rio de Janeiro,08/12/2022,17,276.52
+1001,36,2,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,31/05/2022,19,20.6
+1002,47,4,PowerPro,Ferramentas Educacionais,São Paulo,18/07/2024,2,92.95
+1003,89,4,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,22/09/2022,1,108.48
+1004,73,3,LostFost,Ferramentas Educacionais,Belo Horizonte,15/10/2022,6,310.0
+1005,98,4,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,07/05/2024,6,68.54
+1006,78,1,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,02/01/2024,2,114.69
+1007,22,2,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,23/07/2024,14,10.37
+1008,76,4,UI/UX-K,Ferramentas Criativas,São Paulo,27/11/2022,20,68.23
+1009,11,5,LostFost,Ferramentas Educacionais,São Paulo,31/10/2023,14,349.63
+1010,52,4,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,03/12/2024,9,257.47
+1011,74,1,PowerPro,Ferramentas Criativas,Rio de Janeiro,05/07/2022,14,430.66
+1012,63,4,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,02/01/2024,5,226.8
+1013,93,3,UI/UX-K,Ferramentas Educacionais,São Paulo,14/04/2022,16,200.76
+1014,25,1,UI/UX-K,Ferramentas Criativas,Belo Horizonte,09/10/2022,2,168.1
+1015,50,1,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,23/07/2023,19,244.46
+1016,59,5,PowerPro,Ferramentas Educacionais,São Paulo,29/01/2024,9,46.56
+1017,25,1,PowerPro,Ferramentas Educacionais,Belo Horizonte,06/09/2023,4,58.37
+1018,25,3,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,04/09/2024,4,161.85
+1019,83,1,PowerPro,Ferramentas Criativas,Rio de Janeiro,20/03/2024,12,142.35
+1020,26,3,PowerPro,Ferramentas de Desenvolvimento,São Paulo,05/01/2024,6,151.28
+1021,74,3,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,23/03/2023,7,251.89
+1022,57,4,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,10/05/2022,19,458.78
+1023,37,2,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,26/03/2023,20,405.94
+1024,11,5,PowerPro,Ferramentas Criativas,Rio de Janeiro,08/04/2022,20,297.05
+1025,72,1,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,16/07/2023,17,374.39
+1026,10,4,CodeCode,Ferramentas Criativas,São Paulo,11/02/2022,13,483.24
+1027,26,2,LostFost,Ferramentas Educacionais,Belo Horizonte,19/05/2024,10,357.7
+1028,13,3,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,08/01/2024,2,108.69
+1029,60,4,CodeCode,Ferramentas Educacionais,São Paulo,07/08/2022,14,251.16
+1030,22,4,HargenXtudio,Ferramentas Educacionais,São Paulo,11/06/2022,17,474.28
+1031,48,2,PowerPro,Ferramentas de Desenvolvimento,São Paulo,03/04/2023,10,64.64
+1032,68,1,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,11/12/2023,8,363.93
+1033,14,3,PowerPro,Ferramentas de Desenvolvimento,São Paulo,28/12/2024,15,262.42
+1034,58,2,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,13/01/2022,10,372.92
+1035,29,3,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,26/06/2024,8,171.02
+1036,32,4,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,30/10/2024,8,99.7
+1037,19,2,CodeCode,Ferramentas Educacionais,Rio de Janeiro,17/09/2022,14,327.4
+1038,93,2,HargenXtudio,Ferramentas Educacionais,São Paulo,06/09/2023,15,49.95
+1039,26,4,PowerPro,Ferramentas Criativas,São Paulo,17/01/2023,10,90.39
+1040,68,3,UI/UX-K,Ferramentas Criativas,São Paulo,22/03/2023,7,220.81
+1041,55,4,CodeCode,Ferramentas de Desenvolvimento,São Paulo,25/01/2024,13,305.24
+1042,16,2,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,02/08/2022,6,15.73
+1043,82,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,27/11/2024,18,29.44
+1044,20,3,CodeCode,Ferramentas de Desenvolvimento,São Paulo,11/09/2022,3,106.36
+1045,82,5,CodeCode,Ferramentas Criativas,São Paulo,24/08/2023,2,332.71
+1046,84,5,CodeCode,Ferramentas de Desenvolvimento,São Paulo,02/08/2024,4,25.72
+1047,47,4,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,26/04/2023,7,297.8
+1048,25,5,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,15/03/2024,18,316.39
+1049,50,2,CodeCode,Ferramentas de Desenvolvimento,São Paulo,09/08/2024,19,237.07
+1050,41,4,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,22/07/2022,8,267.19
+1051,69,5,PowerPro,Ferramentas Educacionais,Belo Horizonte,04/05/2023,6,414.28
+1052,44,2,PowerPro,Ferramentas Criativas,São Paulo,16/06/2024,3,285.24
+1053,90,5,PowerPro,Ferramentas Criativas,Rio de Janeiro,07/05/2022,11,162.57
+1054,80,4,LostFost,Ferramentas Criativas,São Paulo,21/09/2023,1,450.73
+1055,39,4,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,14/02/2022,15,111.48
+1056,75,1,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,28/12/2024,6,139.97
+1057,41,5,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,16/06/2024,16,350.24
+1058,33,2,LostFost,Ferramentas Criativas,Belo Horizonte,07/07/2023,18,223.62
+1059,83,5,CodeCode,Ferramentas de Desenvolvimento,São Paulo,16/08/2023,9,228.2
+1060,77,4,CodeCode,Ferramentas Criativas,Belo Horizonte,02/03/2024,13,29.61
+1061,55,5,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,27/01/2024,11,396.38
+1062,55,1,PowerPro,Ferramentas de Desenvolvimento,São Paulo,10/03/2023,5,122.01
+1063,34,2,HargenXtudio,Ferramentas Criativas,Belo Horizonte,23/12/2023,20,350.39
+1064,15,2,PowerPro,Ferramentas de Desenvolvimento,São Paulo,10/06/2022,17,259.89
+1065,20,4,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,16/07/2024,12,21.84
+1066,90,2,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,18/10/2024,9,335.42
+1067,34,3,CodeCode,Ferramentas de Desenvolvimento,São Paulo,16/07/2024,14,364.94
+1068,61,3,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,02/06/2024,20,407.34
+1069,99,1,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,21/03/2022,11,404.19
+1070,64,3,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,03/06/2024,6,79.63
+1071,27,4,UI/UX-K,Ferramentas Criativas,Belo Horizonte,26/04/2024,5,166.75
+1072,50,3,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,26/04/2022,5,222.2
+1073,78,5,CodeCode,Ferramentas de Desenvolvimento,São Paulo,24/12/2022,9,324.78
+1074,13,2,LostFost,Ferramentas Criativas,Belo Horizonte,11/11/2023,12,30.83
+1075,73,2,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,14/02/2024,16,464.24
+1076,78,1,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,18/07/2023,6,183.64
+1077,50,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,28/06/2023,2,246.32
+1078,84,2,PowerPro,Ferramentas Educacionais,Belo Horizonte,12/01/2024,19,188.2
+1079,17,3,CodeCode,Ferramentas de Desenvolvimento,São Paulo,04/06/2024,8,341.46
+1080,74,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,10/01/2023,17,137.48
+1081,99,4,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,23/11/2024,17,387.65
+1082,48,2,CodeCode,Ferramentas Criativas,Rio de Janeiro,13/11/2022,15,126.35
+1083,100,4,HargenXtudio,Ferramentas Educacionais,São Paulo,10/11/2023,16,276.94
+1084,86,5,CodeCode,Ferramentas Criativas,Rio de Janeiro,09/08/2023,11,224.38
+1085,54,4,PowerPro,Ferramentas Criativas,Rio de Janeiro,28/10/2023,6,86.71
+1086,65,3,PowerPro,Ferramentas Criativas,Rio de Janeiro,04/11/2023,10,272.63
+1087,91,2,CodeCode,Ferramentas Educacionais,São Paulo,24/07/2024,16,144.89
+1088,63,1,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,16/04/2022,13,420.01
+1089,50,4,CodeCode,Ferramentas Criativas,Rio de Janeiro,14/11/2024,7,307.04
+1090,32,4,PowerPro,Ferramentas Educacionais,Belo Horizonte,12/03/2023,15,310.39
+1091,81,4,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,14/05/2023,2,180.5
+1092,17,3,PowerPro,Ferramentas Criativas,Belo Horizonte,19/10/2023,5,133.2
+1093,60,1,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,24/03/2022,3,384.99
+1094,21,5,LostFost,Ferramentas Criativas,Rio de Janeiro,01/07/2022,2,95.16
+1095,94,4,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,14/11/2022,19,94.96
+1096,92,4,PowerPro,Ferramentas Criativas,Belo Horizonte,04/06/2023,2,214.32
+1097,24,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,24/08/2023,14,125.65
+1098,77,3,LostFost,Ferramentas Educacionais,São Paulo,24/06/2024,18,490.27
+1099,71,5,UI/UX-K,Ferramentas Criativas,Belo Horizonte,12/07/2023,11,154.25
+1100,39,4,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,07/05/2022,1,61.69
+1101,43,4,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,20/07/2023,4,243.39
+1102,10,4,LostFost,Ferramentas Educacionais,São Paulo,14/07/2023,6,179.34
+1103,37,5,LostFost,Ferramentas Criativas,São Paulo,04/12/2024,6,499.86
+1104,96,2,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,19/07/2022,1,354.69
+1105,36,3,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,09/07/2023,17,346.14
+1106,52,4,UI/UX-K,Ferramentas Educacionais,São Paulo,08/05/2023,11,168.73
+1107,26,3,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,27/12/2024,19,59.14
+1108,93,3,HargenXtudio,Ferramentas Criativas,Belo Horizonte,02/05/2023,19,314.46
+1109,55,1,UI/UX-K,Ferramentas Educacionais,São Paulo,24/09/2023,1,266.22
+1110,80,4,CodeCode,Ferramentas Criativas,São Paulo,30/04/2023,16,93.67
+1111,58,4,PowerPro,Ferramentas Educacionais,São Paulo,29/01/2022,4,300.85
+1112,59,3,LostFost,Ferramentas Criativas,Belo Horizonte,23/01/2022,9,404.25
+1113,77,5,LostFost,Ferramentas Criativas,São Paulo,15/03/2024,17,148.55
+1114,54,2,LostFost,Ferramentas Educacionais,Rio de Janeiro,07/12/2023,11,284.81
+1115,75,2,LostFost,Ferramentas Criativas,São Paulo,17/06/2022,1,304.49
+1116,69,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,19/09/2024,18,438.14
+1117,22,3,PowerPro,Ferramentas Educacionais,Belo Horizonte,27/06/2023,4,405.82
+1118,66,5,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,22/01/2024,5,348.9
+1119,60,1,PowerPro,Ferramentas Educacionais,Belo Horizonte,20/08/2023,13,155.06
+1120,90,3,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,03/05/2024,11,211.74
+1121,55,5,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,29/04/2023,4,56.0
+1122,84,5,LostFost,Ferramentas Criativas,Rio de Janeiro,02/12/2024,7,188.72
+1123,73,3,PowerPro,Ferramentas Criativas,Belo Horizonte,05/01/2022,12,103.03
+1124,92,1,PowerPro,Ferramentas de Desenvolvimento,São Paulo,05/12/2024,9,73.82
+1125,38,1,UI/UX-K,Ferramentas Criativas,Belo Horizonte,14/12/2022,9,103.96
+1126,95,4,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,31/03/2022,6,424.51
+1127,45,2,LostFost,Ferramentas Criativas,Rio de Janeiro,20/08/2023,19,292.29
+1128,76,1,PowerPro,Ferramentas Criativas,Rio de Janeiro,23/12/2022,2,156.32
+1129,24,1,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,24/11/2023,6,77.51
+1130,69,4,PowerPro,Ferramentas Educacionais,Belo Horizonte,27/03/2024,4,236.51
+1131,22,2,PowerPro,Ferramentas de Desenvolvimento,São Paulo,20/07/2023,14,427.53
+1132,72,1,UI/UX-K,Ferramentas Criativas,São Paulo,06/04/2023,6,470.34
+1133,30,4,UI/UX-K,Ferramentas Educacionais,São Paulo,08/10/2023,10,204.68
+1134,47,5,CodeCode,Ferramentas Educacionais,Rio de Janeiro,08/03/2022,7,467.38
+1135,37,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,07/12/2023,6,290.0
+1136,84,5,PowerPro,Ferramentas Criativas,São Paulo,11/03/2022,2,268.79
+1137,70,3,UI/UX-K,Ferramentas Criativas,São Paulo,04/06/2023,20,69.86
+1138,20,5,CodeCode,Ferramentas Criativas,Belo Horizonte,08/11/2022,10,129.21
+1139,61,4,LostFost,Ferramentas Criativas,Rio de Janeiro,10/03/2022,15,229.28
+1140,68,5,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,19/07/2024,9,373.78
+1141,11,5,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,07/06/2022,19,299.26
+1142,70,1,LostFost,Ferramentas de Desenvolvimento,São Paulo,14/01/2024,8,298.31
+1143,89,1,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,27/02/2023,17,275.57
+1144,68,3,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,14/05/2023,4,219.72
+1145,19,3,PowerPro,Ferramentas Educacionais,Rio de Janeiro,07/03/2024,1,471.21
+1146,99,1,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,16/11/2024,1,181.63
+1147,63,4,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,30/11/2023,14,92.79
+1148,42,3,PowerPro,Ferramentas de Desenvolvimento,São Paulo,08/12/2023,9,249.87
+1149,22,1,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,10/06/2022,9,285.49
+1150,92,3,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,16/09/2024,14,403.44
+1151,25,1,PowerPro,Ferramentas Criativas,Rio de Janeiro,21/05/2023,7,347.42
+1152,18,4,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,19/08/2024,11,239.83
+1153,29,1,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,07/06/2022,18,143.17
+1154,42,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,20/08/2023,8,197.28
+1155,48,1,CodeCode,Ferramentas Educacionais,Rio de Janeiro,22/02/2022,1,127.94
+1156,63,1,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,06/11/2022,18,369.74
+1157,77,1,LostFost,Ferramentas Educacionais,São Paulo,20/08/2024,18,490.6
+1158,77,2,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,17/11/2022,4,351.62
+1159,83,2,PowerPro,Ferramentas Criativas,São Paulo,24/05/2024,3,292.5
+1160,95,1,CodeCode,Ferramentas Criativas,Rio de Janeiro,04/08/2024,1,467.06
+1161,20,1,HargenXtudio,Ferramentas Educacionais,São Paulo,21/01/2024,10,148.04
+1162,28,3,CodeCode,Ferramentas Educacionais,São Paulo,04/02/2022,13,98.23
+1163,35,2,PowerPro,Ferramentas de Desenvolvimento,São Paulo,23/02/2024,20,250.87
+1164,23,1,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,18/01/2023,6,469.93
+1165,17,5,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,25/03/2023,19,319.46
+1166,72,3,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,02/07/2022,2,42.98
+1167,67,2,PowerPro,Ferramentas Educacionais,Rio de Janeiro,07/11/2023,7,477.15
+1168,83,2,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,21/03/2023,15,230.18
+1169,77,4,CodeCode,Ferramentas Educacionais,Rio de Janeiro,27/10/2023,11,210.65
+1170,23,1,PowerPro,Ferramentas Criativas,Rio de Janeiro,24/08/2022,20,268.56
+1171,32,3,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,01/11/2024,8,174.6
+1172,55,5,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,18/11/2023,3,243.31
+1173,61,1,CodeCode,Ferramentas Criativas,Rio de Janeiro,17/10/2024,19,442.39
+1174,55,4,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,16/12/2022,15,343.09
+1175,31,4,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,23/12/2022,1,498.71
+1176,67,2,HargenXtudio,Ferramentas Criativas,Belo Horizonte,06/05/2024,17,249.16
+1177,42,3,PowerPro,Ferramentas Educacionais,São Paulo,08/08/2023,5,168.04
+1178,20,2,UI/UX-K,Ferramentas Educacionais,São Paulo,06/03/2023,11,359.9
+1179,85,5,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,01/11/2024,15,301.49
+1180,50,2,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,24/10/2022,5,333.57
+1181,36,3,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,28/09/2024,11,186.91
+1182,63,4,PowerPro,Ferramentas Criativas,São Paulo,08/11/2024,1,312.99
+1183,99,5,LostFost,Ferramentas Criativas,Belo Horizonte,12/11/2022,10,345.01
+1184,66,1,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,05/06/2023,15,353.07
+1185,84,3,HargenXtudio,Ferramentas Criativas,São Paulo,09/01/2022,16,80.53
+1186,84,5,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,12/07/2023,10,339.77
+1187,50,2,UI/UX-K,Ferramentas Criativas,Belo Horizonte,18/10/2022,17,64.3
+1188,84,5,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,13/01/2023,2,417.39
+1189,15,3,PowerPro,Ferramentas de Desenvolvimento,São Paulo,18/04/2022,18,419.1
+1190,59,1,CodeCode,Ferramentas Criativas,São Paulo,10/02/2023,5,153.81
+1191,42,1,CodeCode,Ferramentas Criativas,São Paulo,25/05/2023,3,165.59
+1192,83,1,LostFost,Ferramentas Criativas,São Paulo,12/01/2022,9,269.05
+1193,96,5,PowerPro,Ferramentas Educacionais,São Paulo,31/07/2023,13,55.88
+1194,11,3,CodeCode,Ferramentas Criativas,Belo Horizonte,18/12/2022,5,38.53
+1195,32,2,PowerPro,Ferramentas Criativas,Rio de Janeiro,18/08/2022,2,133.87
+1196,24,3,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,20/07/2024,6,110.8
+1197,38,5,CodeCode,Ferramentas Educacionais,Belo Horizonte,15/02/2023,15,330.71
+1198,70,2,LostFost,Ferramentas Educacionais,Belo Horizonte,24/07/2024,6,196.73
+1199,22,4,LostFost,Ferramentas de Desenvolvimento,São Paulo,22/10/2024,5,96.23
+1200,36,2,CodeCode,Ferramentas Criativas,São Paulo,08/02/2022,3,190.81
+1201,21,1,HargenXtudio,Ferramentas Educacionais,São Paulo,25/07/2024,9,131.34
+1202,68,1,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,16/12/2024,18,125.72
+1203,59,4,LostFost,Ferramentas Criativas,Rio de Janeiro,22/12/2022,7,211.17
+1204,86,3,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,18/03/2023,12,251.52
+1205,40,5,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,23/02/2024,15,303.16
+1206,26,4,LostFost,Ferramentas Criativas,Belo Horizonte,09/04/2024,15,128.89
+1207,73,1,HargenXtudio,Ferramentas Educacionais,São Paulo,13/11/2023,19,110.99
+1208,79,2,LostFost,Ferramentas Criativas,Rio de Janeiro,17/07/2024,19,285.11
+1209,41,4,CodeCode,Ferramentas Criativas,Belo Horizonte,14/02/2022,6,76.23
+1210,29,4,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,02/09/2022,17,470.86
+1211,96,4,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,20/02/2023,3,469.76
+1212,50,5,CodeCode,Ferramentas Educacionais,Belo Horizonte,30/08/2023,19,239.49
+1213,89,3,CodeCode,Ferramentas Educacionais,Belo Horizonte,10/01/2023,4,462.22
+1214,12,5,PowerPro,Ferramentas Educacionais,Belo Horizonte,23/01/2022,8,354.66
+1215,76,1,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,14/08/2022,9,206.31
+1216,21,4,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,25/05/2023,2,463.28
+1217,11,2,HargenXtudio,Ferramentas Educacionais,São Paulo,09/01/2023,5,256.97
+1218,76,5,LostFost,Ferramentas Criativas,Rio de Janeiro,23/12/2024,18,242.22
+1219,11,3,HargenXtudio,Ferramentas Criativas,Belo Horizonte,11/03/2022,15,99.9
+1220,46,1,CodeCode,Ferramentas Educacionais,São Paulo,05/03/2022,10,132.05
+1221,21,3,CodeCode,Ferramentas de Desenvolvimento,São Paulo,02/11/2022,14,301.89
+1222,89,3,PowerPro,Ferramentas Educacionais,São Paulo,05/10/2024,14,471.25
+1223,67,5,CodeCode,Ferramentas Criativas,São Paulo,19/05/2023,9,341.26
+1224,17,2,UI/UX-K,Ferramentas Criativas,São Paulo,15/02/2022,5,279.43
+1225,32,1,LostFost,Ferramentas Criativas,Rio de Janeiro,12/06/2024,11,302.78
+1226,67,2,HargenXtudio,Ferramentas Educacionais,São Paulo,28/06/2022,7,302.32
+1227,18,3,UI/UX-K,Ferramentas Criativas,São Paulo,06/01/2023,12,313.87
+1228,43,3,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,09/02/2023,20,275.89
+1229,69,4,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,24/11/2023,8,37.46
+1230,38,4,HargenXtudio,Ferramentas Criativas,São Paulo,11/02/2023,15,422.1
+1231,59,5,LostFost,Ferramentas Criativas,Belo Horizonte,14/01/2023,17,398.77
+1232,20,3,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,30/10/2023,14,108.11
+1233,78,4,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,27/01/2022,5,282.81
+1234,83,4,CodeCode,Ferramentas Educacionais,São Paulo,20/07/2024,11,415.3
+1235,20,2,HargenXtudio,Ferramentas Educacionais,São Paulo,12/12/2022,10,395.62
+1236,32,1,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,13/04/2022,9,368.55
+1237,10,2,LostFost,Ferramentas Educacionais,São Paulo,02/06/2022,2,66.98
+1238,40,1,HargenXtudio,Ferramentas Criativas,São Paulo,24/04/2023,15,288.09
+1239,72,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,06/01/2023,1,457.07
+1240,63,2,CodeCode,Ferramentas Educacionais,Rio de Janeiro,13/06/2022,3,93.16
+1241,47,1,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,03/06/2022,11,185.91
+1242,39,5,LostFost,Ferramentas Criativas,São Paulo,20/04/2022,17,33.39
+1243,44,5,LostFost,Ferramentas Educacionais,Rio de Janeiro,14/03/2023,8,273.84
+1244,71,5,HargenXtudio,Ferramentas Educacionais,São Paulo,12/02/2023,12,201.56
+1245,18,5,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,12/08/2024,14,431.72
+1246,88,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,01/01/2023,7,218.61
+1247,22,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,06/12/2023,8,395.73
+1248,79,4,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,22/03/2024,3,360.81
+1249,85,2,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,13/10/2024,13,461.67
+1250,78,4,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,23/12/2022,18,154.64
+1251,94,5,UI/UX-K,Ferramentas Criativas,São Paulo,12/12/2022,4,240.3
+1252,52,1,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,17/12/2023,3,55.81
+1253,56,2,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,23/03/2023,8,275.3
+1254,54,2,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,28/06/2024,8,288.95
+1255,77,5,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,23/03/2023,20,119.52
+1256,40,3,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,03/05/2024,9,432.65
+1257,52,1,UI/UX-K,Ferramentas Criativas,São Paulo,08/03/2024,13,238.2
+1258,49,2,CodeCode,Ferramentas de Desenvolvimento,São Paulo,28/07/2023,10,21.87
+1259,23,3,CodeCode,Ferramentas Educacionais,São Paulo,23/03/2024,16,240.28
+1260,21,1,LostFost,Ferramentas Criativas,Rio de Janeiro,28/07/2024,20,373.3
+1261,89,4,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,05/05/2024,11,146.97
+1262,32,1,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,13/11/2023,1,459.35
+1263,24,3,LostFost,Ferramentas Educacionais,São Paulo,17/11/2024,10,41.39
+1264,17,3,CodeCode,Ferramentas Criativas,Rio de Janeiro,27/10/2023,19,485.59
+1265,13,1,CodeCode,Ferramentas Criativas,Rio de Janeiro,24/06/2023,2,88.02
+1266,10,2,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,23/05/2024,19,286.82
+1267,38,5,LostFost,Ferramentas Criativas,São Paulo,25/05/2023,12,70.3
+1268,76,3,HargenXtudio,Ferramentas Educacionais,São Paulo,21/05/2023,11,164.48
+1269,63,2,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,01/05/2024,19,387.4
+1270,26,5,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,27/08/2024,11,285.65
+1271,22,5,CodeCode,Ferramentas Criativas,Belo Horizonte,18/10/2024,7,486.61
+1272,97,4,CodeCode,Ferramentas Educacionais,Belo Horizonte,02/04/2022,2,362.59
+1273,91,4,LostFost,Ferramentas Educacionais,São Paulo,05/11/2024,5,365.55
+1274,16,2,PowerPro,Ferramentas Criativas,Rio de Janeiro,20/03/2022,12,204.52
+1275,48,5,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,22/03/2023,13,471.47
+1276,34,2,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,19/09/2022,11,216.5
+1277,87,2,LostFost,Ferramentas Criativas,Rio de Janeiro,24/05/2024,11,455.07
+1278,97,5,CodeCode,Ferramentas Criativas,Belo Horizonte,22/09/2024,4,420.39
+1279,52,5,CodeCode,Ferramentas Criativas,Rio de Janeiro,13/09/2023,17,488.69
+1280,71,2,HargenXtudio,Ferramentas Criativas,Belo Horizonte,27/11/2023,9,164.68
+1281,64,5,LostFost,Ferramentas de Desenvolvimento,São Paulo,10/11/2024,5,423.74
+1282,37,1,UI/UX-K,Ferramentas Criativas,São Paulo,09/02/2023,14,304.26
+1283,51,5,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,15/01/2024,2,197.99
+1284,53,5,LostFost,Ferramentas Criativas,Belo Horizonte,31/10/2023,13,12.64
+1285,46,2,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,27/11/2024,11,10.28
+1286,45,5,PowerPro,Ferramentas Criativas,São Paulo,23/11/2024,2,321.82
+1287,59,4,CodeCode,Ferramentas Educacionais,São Paulo,21/10/2022,5,395.14
+1288,42,2,PowerPro,Ferramentas Criativas,Rio de Janeiro,15/04/2022,10,315.76
+1289,79,5,PowerPro,Ferramentas Criativas,Rio de Janeiro,13/07/2022,13,56.97
+1290,14,5,LostFost,Ferramentas Educacionais,Rio de Janeiro,18/02/2023,11,244.42
+1291,27,5,PowerPro,Ferramentas Educacionais,Rio de Janeiro,10/09/2023,8,437.86
+1292,40,1,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,04/10/2022,6,70.35
+1293,33,2,PowerPro,Ferramentas Educacionais,Belo Horizonte,04/06/2023,11,387.67
+1294,14,3,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,14/12/2023,19,106.45
+1295,41,5,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,18/12/2024,12,372.03
+1296,55,1,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,18/09/2022,18,101.62
+1297,34,2,UI/UX-K,Ferramentas Criativas,Belo Horizonte,29/06/2023,13,170.92
+1298,81,4,CodeCode,Ferramentas Educacionais,Belo Horizonte,25/09/2023,11,81.67
+1299,69,4,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,25/12/2022,8,204.93
+1300,64,4,PowerPro,Ferramentas Educacionais,São Paulo,11/11/2022,7,50.46
+1301,73,5,CodeCode,Ferramentas Criativas,Rio de Janeiro,07/12/2024,6,131.53
+1302,78,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,12/11/2024,1,490.35
+1303,62,3,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,27/02/2024,5,233.79
+1304,92,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,12/11/2024,5,12.35
+1305,81,1,CodeCode,Ferramentas Criativas,Belo Horizonte,17/09/2024,16,303.9
+1306,42,3,LostFost,Ferramentas Educacionais,Rio de Janeiro,24/03/2022,10,324.06
+1307,76,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,11/02/2023,14,420.58
+1308,16,1,LostFost,Ferramentas de Desenvolvimento,São Paulo,22/09/2022,1,103.63
+1309,52,5,LostFost,Ferramentas Criativas,São Paulo,26/11/2024,17,155.14
+1310,76,2,PowerPro,Ferramentas Educacionais,Belo Horizonte,24/03/2023,1,308.38
+1311,31,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,27/05/2023,1,258.26
+1312,14,1,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,11/02/2023,5,312.87
+1313,62,1,LostFost,Ferramentas Educacionais,São Paulo,15/11/2023,14,495.44
+1314,26,5,HargenXtudio,Ferramentas Educacionais,São Paulo,08/03/2024,9,240.32
+1315,49,1,PowerPro,Ferramentas Educacionais,São Paulo,13/06/2022,18,285.0
+1316,29,1,LostFost,Ferramentas Educacionais,Rio de Janeiro,23/07/2023,9,240.87
+1317,67,5,CodeCode,Ferramentas Criativas,Belo Horizonte,24/05/2023,15,69.01
+1318,64,2,LostFost,Ferramentas Criativas,Belo Horizonte,12/04/2022,2,457.99
+1319,81,5,PowerPro,Ferramentas Educacionais,Rio de Janeiro,06/08/2023,9,286.11
+1320,23,2,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,10/09/2022,20,89.44
+1321,96,4,PowerPro,Ferramentas Criativas,Rio de Janeiro,20/06/2023,1,291.74
+1322,71,2,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,23/11/2024,2,434.16
+1323,22,5,CodeCode,Ferramentas Criativas,Rio de Janeiro,06/04/2024,4,452.21
+1324,80,2,CodeCode,Ferramentas Criativas,Belo Horizonte,01/08/2022,9,399.09
+1325,89,2,CodeCode,Ferramentas Criativas,Rio de Janeiro,23/02/2024,8,362.11
+1326,70,5,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,15/08/2022,4,194.3
+1327,46,2,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,19/02/2022,17,178.02
+1328,63,2,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,18/06/2024,5,289.28
+1329,63,1,HargenXtudio,Ferramentas Educacionais,São Paulo,11/12/2024,12,114.79
+1330,52,2,HargenXtudio,Ferramentas Criativas,São Paulo,23/06/2024,2,431.13
+1331,80,1,PowerPro,Ferramentas Criativas,Belo Horizonte,26/02/2023,8,375.27
+1332,86,3,UI/UX-K,Ferramentas Criativas,Belo Horizonte,14/07/2022,5,401.26
+1333,93,4,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,02/03/2024,18,227.08
+1334,99,5,HargenXtudio,Ferramentas Educacionais,São Paulo,07/03/2024,19,219.84
+1335,31,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,01/10/2024,18,79.58
+1336,48,3,CodeCode,Ferramentas Educacionais,Belo Horizonte,12/12/2024,14,84.6
+1337,46,2,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,25/11/2023,4,339.75
+1338,55,1,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,01/03/2024,18,270.15
+1339,49,4,CodeCode,Ferramentas Educacionais,Belo Horizonte,27/10/2024,8,62.28
+1340,38,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,04/08/2024,17,194.08
+1341,59,1,LostFost,Ferramentas Educacionais,São Paulo,29/05/2023,15,424.86
+1342,31,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,10/03/2024,5,26.43
+1343,70,1,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,10/03/2023,11,244.63
+1344,15,1,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,03/05/2024,15,18.9
+1345,35,1,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,16/02/2024,13,485.44
+1346,74,5,HargenXtudio,Ferramentas Educacionais,São Paulo,15/05/2024,3,273.0
+1347,44,2,PowerPro,Ferramentas Educacionais,São Paulo,19/11/2023,19,12.35
+1348,28,3,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,25/07/2024,9,495.59
+1349,49,2,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,17/05/2024,13,115.86
+1350,62,1,LostFost,Ferramentas Criativas,São Paulo,05/02/2023,14,41.38
+1351,73,3,LostFost,Ferramentas Criativas,São Paulo,03/04/2022,9,294.86
+1352,87,5,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,23/09/2022,17,245.51
+1353,49,3,LostFost,Ferramentas Educacionais,São Paulo,10/11/2024,2,106.52
+1354,58,5,LostFost,Ferramentas Criativas,São Paulo,28/03/2024,19,434.17
+1355,67,4,PowerPro,Ferramentas Criativas,Rio de Janeiro,12/01/2022,3,125.82
+1356,84,4,HargenXtudio,Ferramentas Criativas,Belo Horizonte,19/09/2024,12,221.27
+1357,48,3,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,05/01/2024,18,50.5
+1358,23,3,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,13/11/2024,2,497.96
+1359,44,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,07/03/2024,17,95.48
+1360,75,1,PowerPro,Ferramentas Educacionais,São Paulo,23/03/2022,17,435.03
+1361,76,4,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,25/01/2022,11,497.66
+1362,60,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,04/06/2024,2,302.41
+1363,60,3,LostFost,Ferramentas Educacionais,Rio de Janeiro,06/11/2022,1,120.54
+1364,94,3,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,07/09/2022,14,242.12
+1365,41,2,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,27/11/2022,15,435.21
+1366,21,1,LostFost,Ferramentas Educacionais,São Paulo,15/01/2022,5,397.44
+1367,93,4,LostFost,Ferramentas Criativas,Rio de Janeiro,12/05/2022,8,395.97
+1368,45,4,UI/UX-K,Ferramentas Criativas,São Paulo,22/10/2024,15,464.9
+1369,87,5,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,03/11/2022,10,108.89
+1370,75,4,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,26/10/2022,12,194.3
+1371,38,4,CodeCode,Ferramentas Educacionais,São Paulo,09/03/2023,19,141.69
+1372,83,1,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,09/03/2024,15,333.32
+1373,60,4,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,16/11/2023,10,113.53
+1374,37,1,UI/UX-K,Ferramentas Criativas,São Paulo,27/02/2023,6,401.75
+1375,62,2,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,19/08/2023,17,408.76
+1376,76,1,LostFost,Ferramentas Criativas,Rio de Janeiro,09/09/2022,1,364.87
+1377,31,2,PowerPro,Ferramentas Educacionais,Belo Horizonte,10/10/2022,11,213.61
+1378,73,3,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,19/03/2023,8,305.31
+1379,56,4,LostFost,Ferramentas Criativas,São Paulo,08/08/2024,20,10.73
+1380,78,2,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,02/01/2022,7,212.93
+1381,33,1,LostFost,Ferramentas Criativas,São Paulo,22/02/2024,15,80.23
+1382,52,5,CodeCode,Ferramentas de Desenvolvimento,São Paulo,16/07/2023,11,176.33
+1383,26,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,11/07/2024,2,145.88
+1384,93,5,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,18/12/2022,13,30.06
+1385,97,3,CodeCode,Ferramentas Criativas,Belo Horizonte,15/01/2024,3,253.53
+1386,28,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,06/09/2024,14,248.73
+1387,81,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,29/11/2022,5,195.96
+1388,48,2,LostFost,Ferramentas Criativas,São Paulo,12/05/2024,13,121.03
+1389,50,5,PowerPro,Ferramentas Educacionais,Rio de Janeiro,10/12/2023,4,324.44
+1390,74,5,CodeCode,Ferramentas Educacionais,Belo Horizonte,18/12/2022,13,440.2
+1391,16,4,LostFost,Ferramentas Educacionais,São Paulo,21/12/2022,2,73.6
+1392,29,5,LostFost,Ferramentas Criativas,São Paulo,15/11/2023,17,261.16
+1393,80,4,CodeCode,Ferramentas Criativas,Belo Horizonte,23/07/2022,6,353.25
+1394,17,5,CodeCode,Ferramentas Educacionais,Belo Horizonte,06/09/2024,7,282.9
+1395,27,3,CodeCode,Ferramentas Educacionais,São Paulo,13/07/2024,1,216.26
+1396,93,3,LostFost,Ferramentas Criativas,Belo Horizonte,17/01/2024,18,89.96
+1397,10,1,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,20/02/2024,18,205.72
+1398,91,2,LostFost,Ferramentas Criativas,Rio de Janeiro,09/04/2023,10,488.56
+1399,14,4,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,03/11/2022,10,189.68
+1400,25,3,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,23/04/2023,7,274.19
+1401,84,4,CodeCode,Ferramentas de Desenvolvimento,São Paulo,25/03/2022,4,146.28
+1402,84,5,LostFost,Ferramentas de Desenvolvimento,São Paulo,15/01/2022,2,237.87
+1403,25,2,PowerPro,Ferramentas Educacionais,São Paulo,28/04/2022,7,214.52
+1404,100,1,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,13/07/2024,19,244.53
+1405,69,2,PowerPro,Ferramentas Criativas,Belo Horizonte,08/08/2024,17,138.21
+1406,93,3,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,05/11/2023,15,126.26
+1407,66,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,10/08/2024,4,435.52
+1408,72,5,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,10/02/2022,10,83.12
+1409,68,3,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,23/01/2022,10,453.47
+1410,21,5,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,01/08/2024,18,116.23
+1411,44,1,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,15/01/2022,18,198.08
+1412,55,4,LostFost,Ferramentas de Desenvolvimento,São Paulo,05/07/2024,18,207.55
+1413,62,3,HargenXtudio,Ferramentas Criativas,São Paulo,22/03/2023,13,173.26
+1414,30,5,LostFost,Ferramentas Criativas,Belo Horizonte,14/02/2022,19,214.71
+1415,74,3,CodeCode,Ferramentas Criativas,Rio de Janeiro,07/04/2023,10,255.99
+1416,48,2,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,14/02/2023,1,285.94
+1417,35,1,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,19/10/2022,9,358.58
+1418,45,2,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,10/08/2022,17,19.34
+1419,27,1,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,28/02/2023,11,148.55
+1420,19,4,PowerPro,Ferramentas Educacionais,Rio de Janeiro,04/12/2024,7,157.57
+1421,25,4,LostFost,Ferramentas Educacionais,Belo Horizonte,09/04/2022,9,216.5
+1422,95,5,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,10/01/2024,3,370.78
+1423,71,5,CodeCode,Ferramentas Criativas,Belo Horizonte,15/11/2023,1,201.93
+1424,63,1,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,24/02/2022,16,202.57
+1425,43,5,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,22/02/2024,6,326.46
+1426,11,4,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,11/08/2024,18,482.3
+1427,16,2,UI/UX-K,Ferramentas Criativas,São Paulo,30/11/2023,3,246.36
+1428,92,2,UI/UX-K,Ferramentas Criativas,São Paulo,07/03/2024,20,278.2
+1429,10,4,LostFost,Ferramentas Criativas,Rio de Janeiro,08/11/2024,18,307.27
+1430,35,1,PowerPro,Ferramentas de Desenvolvimento,São Paulo,29/09/2024,4,110.08
+1431,47,1,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,14/09/2023,9,426.53
+1432,84,3,LostFost,Ferramentas Criativas,Belo Horizonte,10/09/2023,16,202.87
+1433,21,3,LostFost,Ferramentas Educacionais,São Paulo,08/10/2022,11,140.46
+1434,63,4,CodeCode,Ferramentas Criativas,Rio de Janeiro,13/06/2022,18,176.14
+1435,38,4,LostFost,Ferramentas Criativas,Belo Horizonte,13/07/2022,14,59.58
+1436,76,4,HargenXtudio,Ferramentas Educacionais,São Paulo,07/03/2022,7,112.86
+1437,58,3,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,01/03/2023,14,178.08
+1438,35,5,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,13/04/2023,13,293.86
+1439,74,5,UI/UX-K,Ferramentas Criativas,São Paulo,13/06/2022,19,34.4
+1440,62,1,UI/UX-K,Ferramentas Criativas,Belo Horizonte,22/05/2024,6,18.02
+1441,100,2,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,17/10/2022,14,442.8
+1442,74,2,HargenXtudio,Ferramentas Educacionais,São Paulo,25/07/2023,5,137.56
+1443,82,3,CodeCode,Ferramentas Criativas,Rio de Janeiro,12/11/2023,7,293.53
+1444,62,1,LostFost,Ferramentas Criativas,São Paulo,03/02/2022,14,131.14
+1445,21,3,CodeCode,Ferramentas Educacionais,São Paulo,24/10/2024,7,25.89
+1446,76,4,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,17/12/2023,16,455.72
+1447,55,5,CodeCode,Ferramentas Educacionais,São Paulo,16/11/2024,20,362.1
+1448,70,1,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,11/06/2022,13,466.2
+1449,58,1,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,05/06/2022,15,73.54
+1450,16,2,HargenXtudio,Ferramentas Criativas,São Paulo,25/02/2024,19,199.98
+1451,35,4,CodeCode,Ferramentas Criativas,São Paulo,28/01/2022,9,336.43
+1452,62,4,CodeCode,Ferramentas Criativas,Belo Horizonte,13/10/2023,1,479.52
+1453,41,2,PowerPro,Ferramentas Educacionais,São Paulo,26/09/2023,11,269.79
+1454,14,1,UI/UX-K,Ferramentas Criativas,São Paulo,29/10/2024,12,327.3
+1455,26,1,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,01/12/2024,11,48.82
+1456,57,2,PowerPro,Ferramentas Criativas,São Paulo,25/03/2022,15,102.24
+1457,30,2,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,07/05/2024,10,411.7
+1458,46,1,LostFost,Ferramentas Criativas,São Paulo,19/05/2023,3,343.43
+1459,26,3,PowerPro,Ferramentas de Desenvolvimento,São Paulo,30/12/2024,8,274.04
+1460,53,4,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,10/02/2023,6,380.07
+1461,60,4,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,01/12/2023,20,262.6
+1462,64,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,18/06/2024,16,371.37
+1463,95,3,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,14/07/2024,8,416.34
+1464,23,5,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,25/11/2022,20,170.49
+1465,93,1,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,22/06/2022,10,407.07
+1466,76,5,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,12/05/2023,10,472.13
+1467,32,5,LostFost,Ferramentas de Desenvolvimento,São Paulo,08/11/2023,8,70.72
+1468,76,5,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,14/03/2024,5,93.22
+1469,59,3,PowerPro,Ferramentas Criativas,Rio de Janeiro,17/03/2024,11,287.38
+1470,98,5,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,20/03/2023,10,375.08
+1471,28,4,LostFost,Ferramentas Educacionais,Belo Horizonte,18/06/2023,14,311.08
+1472,46,4,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,16/05/2024,6,405.75
+1473,39,2,CodeCode,Ferramentas de Desenvolvimento,São Paulo,03/09/2023,7,95.52
+1474,15,1,CodeCode,Ferramentas Criativas,Rio de Janeiro,21/02/2022,10,438.09
+1475,87,1,UI/UX-K,Ferramentas Criativas,Belo Horizonte,15/10/2023,13,334.79
+1476,77,5,LostFost,Ferramentas Educacionais,Belo Horizonte,20/01/2022,9,290.28
+1477,71,5,LostFost,Ferramentas Criativas,Belo Horizonte,20/07/2024,3,477.94
+1478,24,4,PowerPro,Ferramentas Educacionais,Rio de Janeiro,17/04/2022,14,177.8
+1479,20,3,PowerPro,Ferramentas Educacionais,Rio de Janeiro,11/12/2022,7,334.81
+1480,64,4,HargenXtudio,Ferramentas Criativas,São Paulo,20/06/2022,16,200.4
+1481,77,2,UI/UX-K,Ferramentas Criativas,Belo Horizonte,08/02/2023,13,141.17
+1482,87,3,CodeCode,Ferramentas Educacionais,São Paulo,23/09/2023,1,92.63
+1483,74,1,HargenXtudio,Ferramentas Criativas,Belo Horizonte,07/10/2023,8,380.01
+1484,72,2,PowerPro,Ferramentas Educacionais,Belo Horizonte,03/06/2022,8,214.13
+1485,12,4,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,01/07/2023,6,495.4
+1486,61,1,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,24/12/2022,1,150.83
+1487,22,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,28/05/2023,8,406.24
+1488,28,1,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,16/09/2023,2,486.04
+1489,69,2,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,10/04/2024,7,411.14
+1490,35,3,PowerPro,Ferramentas Criativas,São Paulo,01/07/2023,1,297.71
+1491,54,1,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,11/05/2022,17,454.88
+1492,47,2,LostFost,Ferramentas Criativas,Belo Horizonte,15/11/2023,13,368.86
+1493,38,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,07/04/2023,13,349.89
+1494,47,1,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,07/09/2024,10,128.89
+1495,29,4,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,16/09/2022,3,208.88
+1496,72,5,LostFost,Ferramentas Criativas,Belo Horizonte,21/12/2024,6,110.6
+1497,66,5,PowerPro,Ferramentas Educacionais,Belo Horizonte,02/07/2023,10,467.69
+1498,82,2,PowerPro,Ferramentas Criativas,Rio de Janeiro,10/10/2024,6,150.93
+1499,85,4,CodeCode,Ferramentas Criativas,Belo Horizonte,11/03/2023,6,361.56
+1500,48,2,LostFost,Ferramentas Educacionais,Belo Horizonte,28/07/2024,7,68.07
+1501,57,4,CodeCode,Ferramentas Educacionais,Belo Horizonte,09/11/2023,17,73.39
+1502,34,5,PowerPro,Ferramentas Criativas,Rio de Janeiro,24/07/2023,8,258.67
+1503,99,4,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,25/03/2024,16,85.15
+1504,11,1,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,14/11/2023,3,226.01
+1505,64,1,LostFost,Ferramentas Educacionais,Rio de Janeiro,14/08/2022,20,138.78
+1506,31,1,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,12/04/2024,4,447.78
+1507,27,5,CodeCode,Ferramentas Educacionais,São Paulo,26/08/2023,8,470.74
+1508,83,4,PowerPro,Ferramentas Criativas,Belo Horizonte,03/03/2023,17,33.96
+1509,36,4,HargenXtudio,Ferramentas Educacionais,São Paulo,10/08/2023,3,96.92
+1510,100,5,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,04/08/2024,15,186.85
+1511,86,3,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,21/01/2024,12,385.05
+1512,18,5,UI/UX-K,Ferramentas Criativas,Belo Horizonte,19/06/2024,16,268.27
+1513,41,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,12/11/2024,13,383.12
+1514,72,5,CodeCode,Ferramentas Criativas,Rio de Janeiro,15/05/2024,6,398.34
+1515,67,4,LostFost,Ferramentas Criativas,São Paulo,22/04/2022,19,73.31
+1516,14,1,UI/UX-K,Ferramentas Educacionais,São Paulo,22/12/2024,11,144.34
+1517,92,3,HargenXtudio,Ferramentas Educacionais,São Paulo,20/07/2022,20,206.38
+1518,34,2,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,04/05/2022,9,102.22
+1519,96,4,PowerPro,Ferramentas Criativas,Rio de Janeiro,25/12/2024,2,161.54
+1520,82,2,UI/UX-K,Ferramentas Educacionais,São Paulo,30/08/2023,12,51.76
+1521,87,3,LostFost,Ferramentas Educacionais,Rio de Janeiro,21/12/2023,11,101.92
+1522,21,2,LostFost,Ferramentas Criativas,São Paulo,13/03/2022,12,52.54
+1523,83,4,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,30/06/2024,4,23.89
+1524,34,3,PowerPro,Ferramentas Educacionais,São Paulo,02/05/2023,15,230.32
+1525,47,4,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,26/11/2024,3,208.4
+1526,56,1,CodeCode,Ferramentas Educacionais,São Paulo,16/01/2022,20,64.65
+1527,76,1,HargenXtudio,Ferramentas Criativas,Belo Horizonte,10/06/2022,19,448.59
+1528,86,1,PowerPro,Ferramentas Criativas,Belo Horizonte,04/08/2024,18,149.91
+1529,80,1,UI/UX-K,Ferramentas Educacionais,São Paulo,15/08/2024,10,360.9
+1530,77,1,PowerPro,Ferramentas Criativas,Belo Horizonte,12/09/2024,19,408.61
+1531,55,2,LostFost,Ferramentas de Desenvolvimento,São Paulo,29/11/2023,10,16.23
+1532,26,1,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,29/01/2024,19,125.19
+1533,42,3,LostFost,Ferramentas Criativas,Belo Horizonte,07/09/2024,19,405.08
+1534,22,1,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,25/06/2024,17,113.28
+1535,64,1,HargenXtudio,Ferramentas Educacionais,São Paulo,24/12/2023,9,33.69
+1536,47,2,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,10/09/2024,2,310.29
+1537,24,1,LostFost,Ferramentas Criativas,São Paulo,26/11/2023,13,234.24
+1538,53,3,CodeCode,Ferramentas Criativas,Rio de Janeiro,26/03/2023,3,268.47
+1539,39,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,24/10/2024,19,41.21
+1540,15,4,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,14/11/2022,8,111.56
+1541,94,5,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,30/07/2022,8,207.29
+1542,23,5,LostFost,Ferramentas Educacionais,Rio de Janeiro,25/05/2023,12,483.03
+1543,81,5,UI/UX-K,Ferramentas Criativas,Belo Horizonte,01/07/2023,6,138.28
+1544,29,1,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,27/12/2023,15,268.33
+1545,16,1,LostFost,Ferramentas Criativas,Rio de Janeiro,29/07/2022,9,41.78
+1546,21,4,LostFost,Ferramentas Criativas,Belo Horizonte,06/10/2022,5,30.01
+1547,16,5,HargenXtudio,Ferramentas Criativas,Belo Horizonte,26/07/2022,11,242.24
+1548,47,3,PowerPro,Ferramentas Criativas,São Paulo,16/11/2024,10,104.52
+1549,100,4,PowerPro,Ferramentas Criativas,Rio de Janeiro,04/06/2022,4,199.82
+1550,53,3,PowerPro,Ferramentas Criativas,São Paulo,19/12/2024,5,37.54
+1551,99,1,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,04/04/2023,19,114.57
+1552,32,2,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,25/03/2023,10,238.94
+1553,89,1,PowerPro,Ferramentas Educacionais,Belo Horizonte,31/05/2022,16,410.06
+1554,22,1,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,13/10/2023,1,204.66
+1555,86,4,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,17/11/2022,19,411.04
+1556,34,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,13/05/2022,8,410.76
+1557,94,5,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,28/01/2022,1,14.05
+1558,47,3,CodeCode,Ferramentas Educacionais,Belo Horizonte,03/04/2024,18,251.64
+1559,11,4,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,18/03/2024,8,312.68
+1560,53,3,UI/UX-K,Ferramentas Educacionais,São Paulo,07/09/2024,5,91.64
+1561,41,3,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,15/05/2022,7,345.93
+1562,80,4,PowerPro,Ferramentas Criativas,Belo Horizonte,16/06/2023,12,131.4
+1563,25,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,16/11/2024,19,31.49
+1564,10,4,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,05/02/2022,16,335.72
+1565,90,5,PowerPro,Ferramentas Criativas,Rio de Janeiro,21/01/2023,7,424.15
+1566,71,3,LostFost,Ferramentas Educacionais,São Paulo,13/09/2023,19,499.8
+1567,18,3,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,14/09/2022,13,144.16
+1568,95,2,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,09/09/2022,17,377.95
+1569,64,5,CodeCode,Ferramentas Criativas,São Paulo,25/04/2022,19,499.05
+1570,20,2,PowerPro,Ferramentas Educacionais,São Paulo,08/12/2022,10,80.46
+1571,79,5,CodeCode,Ferramentas Criativas,Rio de Janeiro,20/02/2024,17,300.75
+1572,30,1,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,21/10/2024,6,175.49
+1573,64,2,CodeCode,Ferramentas Educacionais,Rio de Janeiro,03/09/2023,16,331.32
+1574,73,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,20/12/2023,19,355.58
+1575,59,1,LostFost,Ferramentas Criativas,Belo Horizonte,14/03/2024,19,443.76
+1576,30,1,UI/UX-K,Ferramentas Criativas,São Paulo,14/12/2024,19,96.89
+1577,55,1,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,29/04/2023,15,54.94
+1578,93,2,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,19/04/2023,13,95.68
+1579,98,2,CodeCode,Ferramentas Educacionais,São Paulo,30/07/2024,5,65.68
+1580,69,5,CodeCode,Ferramentas Educacionais,Rio de Janeiro,11/04/2024,4,66.36
+1581,92,5,HargenXtudio,Ferramentas Criativas,São Paulo,09/04/2023,11,253.21
+1582,58,4,CodeCode,Ferramentas Criativas,Belo Horizonte,15/08/2023,4,259.49
+1583,94,5,HargenXtudio,Ferramentas Criativas,São Paulo,21/12/2023,2,441.12
+1584,91,4,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,02/09/2024,18,12.48
+1585,57,1,PowerPro,Ferramentas Educacionais,São Paulo,10/11/2023,17,201.76
+1586,34,4,PowerPro,Ferramentas Criativas,Belo Horizonte,10/02/2024,4,160.75
+1587,35,2,CodeCode,Ferramentas Educacionais,Rio de Janeiro,15/01/2024,14,311.53
+1588,98,5,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,15/09/2022,5,164.08
+1589,16,5,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,02/05/2022,9,397.16
+1590,53,5,UI/UX-K,Ferramentas Criativas,São Paulo,26/10/2023,12,231.08
+1591,28,3,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,04/04/2022,9,271.62
+1592,78,5,PowerPro,Ferramentas Educacionais,São Paulo,26/09/2023,2,322.62
+1593,85,5,LostFost,Ferramentas Criativas,São Paulo,09/01/2024,10,77.38
+1594,29,3,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,23/12/2022,14,27.64
+1595,15,5,LostFost,Ferramentas de Desenvolvimento,São Paulo,29/07/2024,3,212.03
+1596,60,2,HargenXtudio,Ferramentas Criativas,Belo Horizonte,13/11/2022,4,315.61
+1597,55,5,LostFost,Ferramentas Educacionais,Belo Horizonte,04/07/2023,17,418.03
+1598,87,4,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,22/03/2024,11,170.12
+1599,69,5,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,27/11/2022,17,75.23
+1600,13,1,PowerPro,Ferramentas Criativas,São Paulo,08/09/2024,8,272.15
+1601,41,4,PowerPro,Ferramentas de Desenvolvimento,São Paulo,09/11/2023,11,174.77
+1602,69,4,PowerPro,Ferramentas Criativas,São Paulo,28/06/2022,16,256.42
+1603,21,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,06/06/2022,19,284.72
+1604,27,4,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,09/06/2023,7,245.09
+1605,64,3,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,22/02/2024,2,397.05
+1606,24,1,LostFost,Ferramentas de Desenvolvimento,São Paulo,24/05/2024,2,177.9
+1607,99,4,HargenXtudio,Ferramentas Criativas,São Paulo,02/05/2024,15,324.16
+1608,53,5,PowerPro,Ferramentas Educacionais,São Paulo,28/04/2023,6,284.99
+1609,79,2,CodeCode,Ferramentas Criativas,Rio de Janeiro,01/04/2024,17,308.66
+1610,76,4,PowerPro,Ferramentas Criativas,São Paulo,25/07/2022,18,33.14
+1611,23,3,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,05/12/2024,2,31.47
+1612,28,2,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,16/09/2022,12,425.62
+1613,83,1,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,04/10/2024,7,401.46
+1614,84,5,PowerPro,Ferramentas Educacionais,Belo Horizonte,18/10/2022,17,222.62
+1615,70,2,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,26/12/2024,11,115.58
+1616,77,4,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,06/08/2024,4,239.56
+1617,96,2,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,27/05/2022,2,455.78
+1618,40,1,LostFost,Ferramentas Educacionais,Belo Horizonte,06/02/2022,15,73.94
+1619,55,5,UI/UX-K,Ferramentas Criativas,São Paulo,15/04/2022,19,423.72
+1620,22,1,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,20/02/2022,10,13.15
+1621,15,5,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,19/03/2024,7,181.45
+1622,38,1,LostFost,Ferramentas Criativas,São Paulo,25/02/2023,13,386.98
+1623,58,5,LostFost,Ferramentas Criativas,São Paulo,10/08/2022,4,78.32
+1624,73,1,LostFost,Ferramentas Criativas,Belo Horizonte,29/11/2023,1,14.87
+1625,32,3,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,23/03/2023,19,371.94
+1626,88,2,HargenXtudio,Ferramentas Criativas,São Paulo,16/03/2024,2,125.65
+1627,30,4,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,02/10/2024,12,174.54
+1628,17,2,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,28/06/2022,7,183.81
+1629,73,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,07/12/2024,1,107.98
+1630,32,5,LostFost,Ferramentas Criativas,São Paulo,24/10/2022,2,476.88
+1631,14,3,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,20/10/2023,4,96.47
+1632,51,4,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,12/11/2024,6,391.4
+1633,76,1,CodeCode,Ferramentas Criativas,Rio de Janeiro,22/08/2022,20,218.1
+1634,35,2,PowerPro,Ferramentas Criativas,Rio de Janeiro,07/01/2024,5,18.32
+1635,91,4,LostFost,Ferramentas Criativas,São Paulo,16/11/2022,7,302.06
+1636,58,1,PowerPro,Ferramentas Criativas,Belo Horizonte,31/03/2023,18,253.5
+1637,16,2,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,28/06/2022,7,360.19
+1638,40,4,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,28/01/2022,5,72.19
+1639,71,1,PowerPro,Ferramentas Criativas,São Paulo,12/03/2023,20,360.19
+1640,53,3,LostFost,Ferramentas Criativas,São Paulo,04/01/2023,5,143.03
+1641,29,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,30/03/2023,14,260.27
+1642,52,5,LostFost,Ferramentas de Desenvolvimento,São Paulo,12/04/2022,9,13.65
+1643,47,2,LostFost,Ferramentas de Desenvolvimento,São Paulo,22/09/2022,2,492.73
+1644,16,4,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,30/10/2024,17,205.28
+1645,71,1,UI/UX-K,Ferramentas Educacionais,São Paulo,08/09/2022,15,350.4
+1646,76,4,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,10/02/2022,19,401.74
+1647,68,4,UI/UX-K,Ferramentas Educacionais,São Paulo,12/01/2022,10,53.85
+1648,31,2,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,18/09/2022,17,446.67
+1649,63,1,PowerPro,Ferramentas Criativas,Belo Horizonte,05/08/2024,1,311.26
+1650,86,1,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,25/03/2022,6,458.88
+1651,52,2,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,05/06/2024,11,135.41
+1652,33,3,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,27/02/2024,2,219.74
+1653,87,1,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,10/05/2024,13,225.09
+1654,31,4,CodeCode,Ferramentas Educacionais,Rio de Janeiro,29/08/2024,4,36.95
+1655,81,4,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,14/11/2024,20,180.92
+1656,24,2,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,24/10/2023,17,76.96
+1657,51,1,PowerPro,Ferramentas Criativas,Rio de Janeiro,25/05/2022,19,139.4
+1658,87,2,LostFost,Ferramentas Educacionais,Rio de Janeiro,27/04/2023,8,455.43
+1659,99,1,UI/UX-K,Ferramentas Criativas,São Paulo,30/10/2022,13,71.05
+1660,74,1,CodeCode,Ferramentas Criativas,São Paulo,09/03/2023,4,54.22
+1661,26,4,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,07/10/2023,15,26.72
+1662,22,1,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,13/10/2024,7,496.17
+1663,54,1,CodeCode,Ferramentas Criativas,São Paulo,14/11/2022,9,453.41
+1664,37,1,CodeCode,Ferramentas Criativas,São Paulo,26/06/2022,19,110.85
+1665,99,3,CodeCode,Ferramentas Criativas,Rio de Janeiro,21/05/2022,5,464.23
+1666,72,2,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,05/03/2023,1,113.37
+1667,11,5,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,23/05/2024,9,66.12
+1668,70,3,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,20/06/2022,7,473.92
+1669,64,2,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,17/06/2024,20,461.24
+1670,54,2,CodeCode,Ferramentas Educacionais,Belo Horizonte,25/05/2024,8,208.85
+1671,46,5,CodeCode,Ferramentas Criativas,Rio de Janeiro,11/10/2024,6,17.01
+1672,44,3,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,23/05/2022,15,31.19
+1673,48,4,PowerPro,Ferramentas Criativas,São Paulo,26/12/2023,5,263.64
+1674,96,5,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,16/04/2024,4,115.41
+1675,99,1,UI/UX-K,Ferramentas Criativas,Belo Horizonte,11/02/2024,7,361.07
+1676,99,2,UI/UX-K,Ferramentas Educacionais,São Paulo,18/09/2024,17,14.67
+1677,51,4,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,01/10/2023,1,443.22
+1678,65,5,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,20/06/2024,9,62.61
+1679,21,1,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,19/02/2022,4,342.72
+1680,73,3,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,21/05/2024,15,368.62
+1681,88,2,PowerPro,Ferramentas Educacionais,São Paulo,20/07/2023,7,257.33
+1682,32,5,LostFost,Ferramentas Educacionais,São Paulo,21/05/2024,14,318.8
+1683,32,5,CodeCode,Ferramentas de Desenvolvimento,São Paulo,07/08/2023,16,287.18
+1684,72,4,LostFost,Ferramentas Criativas,Belo Horizonte,02/08/2022,4,87.4
+1685,68,5,PowerPro,Ferramentas Criativas,São Paulo,08/01/2023,14,50.18
+1686,40,3,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,07/03/2023,18,476.3
+1687,47,5,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,20/04/2022,11,273.06
+1688,19,4,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,24/09/2023,17,258.57
+1689,12,2,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,18/10/2022,12,201.18
+1690,86,1,CodeCode,Ferramentas Educacionais,São Paulo,10/06/2023,11,161.31
+1691,19,1,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,16/06/2023,16,138.89
+1692,84,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,25/04/2024,13,130.29
+1693,46,5,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,02/05/2022,10,331.15
+1694,30,1,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,04/12/2024,4,241.83
+1695,17,4,CodeCode,Ferramentas Educacionais,Belo Horizonte,08/07/2023,19,133.42
+1696,85,2,PowerPro,Ferramentas Criativas,Rio de Janeiro,27/05/2023,2,358.09
+1697,87,3,LostFost,Ferramentas Educacionais,São Paulo,12/06/2022,3,483.34
+1698,14,5,UI/UX-K,Ferramentas Educacionais,São Paulo,03/05/2024,20,497.34
+1699,59,1,UI/UX-K,Ferramentas Criativas,São Paulo,27/05/2023,20,338.04
+1700,14,3,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,31/05/2022,20,141.38
+1701,95,3,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,14/05/2023,5,119.86
+1702,87,5,HargenXtudio,Ferramentas Criativas,São Paulo,16/11/2022,3,328.27
+1703,84,1,LostFost,Ferramentas Educacionais,Belo Horizonte,22/02/2023,14,197.15
+1704,55,2,LostFost,Ferramentas Educacionais,Rio de Janeiro,31/08/2022,6,359.55
+1705,55,5,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,19/08/2022,2,490.98
+1706,72,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,23/08/2023,17,360.05
+1707,80,5,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,14/05/2023,10,498.76
+1708,33,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,08/11/2024,11,296.82
+1709,21,2,LostFost,Ferramentas Criativas,Rio de Janeiro,09/12/2023,11,69.82
+1710,48,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,28/10/2024,6,468.33
+1711,91,2,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,09/11/2022,18,443.5
+1712,58,5,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,20/09/2024,20,181.76
+1713,57,4,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,02/02/2023,6,427.69
+1714,97,2,LostFost,Ferramentas Educacionais,São Paulo,06/01/2023,6,418.4
+1715,39,5,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,25/03/2024,17,241.81
+1716,100,4,PowerPro,Ferramentas Criativas,Belo Horizonte,27/06/2022,20,318.79
+1717,48,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,03/05/2024,2,442.92
+1718,25,5,CodeCode,Ferramentas Educacionais,Rio de Janeiro,15/08/2024,8,256.29
+1719,86,2,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,08/05/2023,14,492.21
+1720,34,2,PowerPro,Ferramentas Criativas,São Paulo,23/05/2022,18,208.67
+1721,33,2,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,19/10/2024,19,310.35
+1722,22,2,CodeCode,Ferramentas Educacionais,Rio de Janeiro,28/04/2023,1,182.41
+1723,86,4,LostFost,Ferramentas Criativas,São Paulo,11/12/2023,12,37.72
+1724,18,2,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,03/01/2024,16,125.39
+1725,50,1,PowerPro,Ferramentas Criativas,Rio de Janeiro,01/09/2023,17,26.29
+1726,16,5,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,08/12/2024,1,344.96
+1727,35,5,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,11/07/2023,12,224.5
+1728,13,4,LostFost,Ferramentas Educacionais,Belo Horizonte,07/10/2023,7,433.61
+1729,92,5,PowerPro,Ferramentas Criativas,São Paulo,06/02/2022,4,156.84
+1730,45,1,PowerPro,Ferramentas Criativas,Rio de Janeiro,24/08/2024,5,180.08
+1731,28,2,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,12/09/2023,6,204.72
+1732,39,1,CodeCode,Ferramentas Educacionais,Rio de Janeiro,09/05/2024,20,39.82
+1733,47,1,CodeCode,Ferramentas Educacionais,São Paulo,29/05/2024,4,342.5
+1734,56,5,LostFost,Ferramentas Criativas,Belo Horizonte,01/11/2024,7,174.27
+1735,43,1,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,22/01/2024,18,385.79
+1736,73,3,CodeCode,Ferramentas Educacionais,São Paulo,23/10/2024,18,320.93
+1737,54,5,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,12/05/2024,13,55.65
+1738,50,2,UI/UX-K,Ferramentas Educacionais,São Paulo,30/03/2022,10,296.13
+1739,50,3,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,03/01/2023,6,82.37
+1740,55,5,PowerPro,Ferramentas Educacionais,São Paulo,30/10/2022,14,34.58
+1741,58,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,13/03/2023,7,338.5
+1742,91,5,CodeCode,Ferramentas de Desenvolvimento,São Paulo,26/11/2023,12,481.26
+1743,71,5,LostFost,Ferramentas de Desenvolvimento,São Paulo,16/06/2022,13,407.02
+1744,69,4,PowerPro,Ferramentas Educacionais,Rio de Janeiro,09/11/2023,15,335.74
+1745,68,5,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,27/10/2022,11,393.43
+1746,51,3,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,01/06/2022,17,69.27
+1747,34,2,LostFost,Ferramentas Criativas,São Paulo,28/05/2022,19,110.6
+1748,20,1,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,11/07/2024,4,168.3
+1749,94,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,01/11/2024,17,23.37
+1750,10,3,PowerPro,Ferramentas Criativas,São Paulo,26/03/2023,4,452.49
+1751,33,2,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,22/09/2022,17,468.68
+1752,57,2,LostFost,Ferramentas Criativas,São Paulo,28/10/2022,4,418.09
+1753,35,5,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,31/05/2024,10,437.91
+1754,87,5,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,28/05/2024,20,278.16
+1755,51,5,LostFost,Ferramentas Educacionais,Rio de Janeiro,21/12/2022,7,178.55
+1756,93,1,LostFost,Ferramentas de Desenvolvimento,São Paulo,29/10/2024,1,163.13
+1757,13,2,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,11/02/2023,14,74.76
+1758,19,5,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,15/09/2022,10,158.02
+1759,23,2,CodeCode,Ferramentas Educacionais,Rio de Janeiro,01/03/2023,8,119.93
+1760,18,3,UI/UX-K,Ferramentas Educacionais,São Paulo,06/04/2024,10,182.31
+1761,86,1,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,04/03/2023,14,92.91
+1762,45,3,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,11/06/2024,15,497.52
+1763,53,2,HargenXtudio,Ferramentas Criativas,Belo Horizonte,04/09/2024,15,180.59
+1764,11,5,UI/UX-K,Ferramentas Criativas,São Paulo,22/11/2024,19,310.24
+1765,18,2,LostFost,Ferramentas Criativas,Rio de Janeiro,03/06/2023,19,17.96
+1766,75,5,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,23/07/2023,9,71.23
+1767,12,2,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,07/10/2023,15,135.27
+1768,57,2,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,27/09/2024,2,26.94
+1769,70,5,LostFost,Ferramentas Educacionais,Belo Horizonte,07/11/2022,1,460.04
+1770,11,1,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,04/06/2023,4,139.14
+1771,66,5,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,23/03/2023,4,467.93
+1772,98,2,UI/UX-K,Ferramentas Educacionais,São Paulo,29/08/2022,14,73.32
+1773,57,4,UI/UX-K,Ferramentas Educacionais,São Paulo,06/09/2024,6,268.74
+1774,79,4,PowerPro,Ferramentas Educacionais,Rio de Janeiro,09/04/2022,16,235.99
+1775,18,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,27/07/2024,7,296.37
+1776,42,1,LostFost,Ferramentas de Desenvolvimento,São Paulo,08/12/2024,17,341.57
+1777,52,3,UI/UX-K,Ferramentas Criativas,Belo Horizonte,22/04/2023,20,236.67
+1778,40,4,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,13/05/2024,11,421.27
+1779,97,4,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,01/08/2024,7,405.69
+1780,83,5,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,03/12/2023,13,103.23
+1781,73,2,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,04/07/2024,20,92.98
+1782,28,4,LostFost,Ferramentas Criativas,Rio de Janeiro,04/11/2024,13,78.98
+1783,89,1,HargenXtudio,Ferramentas Criativas,Belo Horizonte,22/07/2023,9,59.15
+1784,18,3,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,29/04/2022,16,351.59
+1785,44,2,PowerPro,Ferramentas Educacionais,Belo Horizonte,04/05/2023,13,428.74
+1786,91,4,CodeCode,Ferramentas Educacionais,São Paulo,07/05/2023,12,284.86
+1787,76,2,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,17/06/2024,7,161.44
+1788,41,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,27/12/2023,13,466.98
+1789,48,1,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,31/01/2024,2,179.73
+1790,99,4,PowerPro,Ferramentas Educacionais,São Paulo,31/03/2023,18,188.78
+1791,65,2,LostFost,Ferramentas Criativas,Rio de Janeiro,14/10/2022,11,107.65
+1792,63,3,HargenXtudio,Ferramentas Educacionais,São Paulo,02/12/2023,1,427.58
+1793,32,2,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,19/01/2023,17,362.18
+1794,39,4,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,22/09/2022,10,281.16
+1795,20,2,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,15/07/2022,9,90.05
+1796,99,2,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,19/10/2023,20,254.2
+1797,32,1,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,05/04/2024,15,19.75
+1798,92,4,HargenXtudio,Ferramentas Criativas,Belo Horizonte,10/12/2022,10,435.02
+1799,97,5,LostFost,Ferramentas Educacionais,Belo Horizonte,06/05/2023,20,87.48
+1800,29,4,CodeCode,Ferramentas Educacionais,Rio de Janeiro,12/04/2022,16,230.82
+1801,99,5,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,24/09/2023,14,264.26
+1802,23,2,CodeCode,Ferramentas Educacionais,Rio de Janeiro,30/07/2024,1,429.75
+1803,84,4,PowerPro,Ferramentas Criativas,Rio de Janeiro,04/09/2022,17,32.71
+1804,54,1,UI/UX-K,Ferramentas Educacionais,São Paulo,12/04/2024,11,127.25
+1805,44,5,CodeCode,Ferramentas Educacionais,Belo Horizonte,12/01/2022,12,183.06
+1806,14,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,21/04/2023,16,30.86
+1807,32,4,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,10/05/2023,12,393.59
+1808,45,3,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,17/05/2022,11,386.06
+1809,73,3,LostFost,Ferramentas Educacionais,Rio de Janeiro,19/01/2024,1,184.35
+1810,57,2,PowerPro,Ferramentas Criativas,São Paulo,13/04/2023,10,84.57
+1811,42,5,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,06/02/2022,14,205.07
+1812,69,4,UI/UX-K,Ferramentas Criativas,Belo Horizonte,26/02/2022,16,87.76
+1813,98,1,UI/UX-K,Ferramentas Criativas,São Paulo,04/07/2023,16,174.54
+1814,71,4,PowerPro,Ferramentas Criativas,Rio de Janeiro,14/09/2023,14,33.53
+1815,19,2,CodeCode,Ferramentas Criativas,Belo Horizonte,26/04/2023,16,495.62
+1816,39,3,CodeCode,Ferramentas Criativas,Belo Horizonte,02/02/2023,18,155.8
+1817,48,2,PowerPro,Ferramentas Educacionais,São Paulo,15/09/2023,12,218.28
+1818,30,1,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,11/04/2023,18,296.09
+1819,54,4,LostFost,Ferramentas Criativas,Belo Horizonte,29/01/2022,10,49.56
+1820,29,1,HargenXtudio,Ferramentas Educacionais,Belo Horizonte,09/04/2023,2,423.63
+1821,37,3,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,09/07/2024,9,149.31
+1822,71,1,PowerPro,Ferramentas Educacionais,Belo Horizonte,19/03/2024,20,214.52
+1823,92,1,LostFost,Ferramentas Criativas,Rio de Janeiro,16/07/2024,17,487.4
+1824,79,4,PowerPro,Ferramentas Criativas,São Paulo,04/07/2024,7,470.29
+1825,98,3,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,01/02/2022,4,17.63
+1826,82,3,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,07/04/2023,3,17.95
+1827,91,1,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,04/07/2023,15,24.32
+1828,30,5,PowerPro,Ferramentas Criativas,Rio de Janeiro,22/01/2023,6,184.66
+1829,88,4,CodeCode,Ferramentas Criativas,São Paulo,30/06/2024,12,163.02
+1830,50,3,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,29/08/2022,19,200.76
+1831,91,4,LostFost,Ferramentas de Desenvolvimento,São Paulo,14/03/2023,13,243.49
+1832,45,4,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,25/02/2023,17,92.57
+1833,24,4,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,06/02/2023,14,121.94
+1834,68,2,LostFost,Ferramentas de Desenvolvimento,São Paulo,14/04/2022,13,184.47
+1835,72,3,LostFost,Ferramentas Criativas,São Paulo,03/11/2024,9,188.64
+1836,33,4,CodeCode,Ferramentas de Desenvolvimento,São Paulo,12/03/2022,2,38.9
+1837,97,4,UI/UX-K,Ferramentas de Desenvolvimento,São Paulo,14/06/2023,6,222.77
+1838,60,2,HargenXtudio,Ferramentas Criativas,Belo Horizonte,13/07/2024,4,402.94
+1839,76,3,PowerPro,Ferramentas Criativas,Rio de Janeiro,19/10/2023,1,352.62
+1840,10,2,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,11/01/2024,1,267.11
+1841,14,4,HargenXtudio,Ferramentas Educacionais,São Paulo,05/10/2023,4,124.18
+1842,74,3,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,15/02/2023,5,43.38
+1843,71,5,CodeCode,Ferramentas Educacionais,Belo Horizonte,02/01/2022,16,141.54
+1844,59,2,PowerPro,Ferramentas Educacionais,Belo Horizonte,26/07/2023,7,36.16
+1845,28,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,16/06/2022,6,399.76
+1846,65,1,LostFost,Ferramentas Criativas,Rio de Janeiro,11/03/2022,7,320.43
+1847,55,3,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,11/08/2022,14,150.83
+1848,97,3,CodeCode,Ferramentas Criativas,São Paulo,29/09/2022,18,317.21
+1849,15,3,CodeCode,Ferramentas Criativas,Belo Horizonte,01/12/2024,14,380.77
+1850,96,4,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,06/01/2023,13,280.14
+1851,79,3,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,15/02/2024,5,328.05
+1852,89,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,13/06/2022,3,331.98
+1853,77,2,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,09/06/2024,6,345.94
+1854,49,1,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,06/09/2023,5,431.1
+1855,41,2,CodeCode,Ferramentas Criativas,Rio de Janeiro,04/12/2024,16,128.14
+1856,44,3,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,09/05/2023,11,290.62
+1857,79,4,PowerPro,Ferramentas Educacionais,São Paulo,11/11/2022,14,396.05
+1858,17,2,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,27/02/2022,7,344.06
+1859,84,1,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,12/01/2024,13,222.72
+1860,49,5,CodeCode,Ferramentas Educacionais,Belo Horizonte,21/03/2023,5,102.16
+1861,66,2,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,14/11/2024,5,383.14
+1862,90,3,UI/UX-K,Ferramentas Criativas,Belo Horizonte,17/03/2022,1,122.95
+1863,100,1,HargenXtudio,Ferramentas Criativas,São Paulo,01/10/2024,11,35.87
+1864,22,3,HargenXtudio,Ferramentas Criativas,Belo Horizonte,10/07/2023,15,222.98
+1865,22,1,HargenXtudio,Ferramentas Educacionais,São Paulo,24/08/2022,10,366.28
+1866,50,5,PowerPro,Ferramentas Educacionais,Belo Horizonte,16/06/2022,18,157.65
+1867,54,5,PowerPro,Ferramentas Criativas,Belo Horizonte,21/11/2022,20,299.47
+1868,60,4,PowerPro,Ferramentas Educacionais,São Paulo,05/08/2022,18,273.34
+1869,30,3,PowerPro,Ferramentas Criativas,São Paulo,13/06/2022,4,282.38
+1870,47,4,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,15/03/2024,9,397.52
+1871,71,4,UI/UX-K,Ferramentas Educacionais,São Paulo,03/02/2024,14,43.95
+1872,47,4,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,20/03/2022,10,208.7
+1873,99,3,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,27/09/2023,20,197.02
+1874,52,4,PowerPro,Ferramentas Criativas,Belo Horizonte,12/02/2024,9,172.15
+1875,72,3,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,04/01/2023,1,62.81
+1876,13,2,LostFost,Ferramentas de Desenvolvimento,São Paulo,10/08/2024,17,444.4
+1877,91,1,UI/UX-K,Ferramentas Educacionais,São Paulo,23/06/2024,18,131.59
+1878,41,5,PowerPro,Ferramentas Criativas,Rio de Janeiro,26/07/2023,19,266.16
+1879,18,2,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,06/10/2023,15,170.32
+1880,17,1,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,10/06/2023,20,473.76
+1881,43,3,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,16/10/2024,12,310.19
+1882,58,1,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,07/02/2024,15,158.23
+1883,60,3,PowerPro,Ferramentas de Desenvolvimento,São Paulo,05/09/2022,15,83.31
+1884,90,2,LostFost,Ferramentas de Desenvolvimento,São Paulo,06/08/2023,2,191.16
+1885,55,5,UI/UX-K,Ferramentas Criativas,São Paulo,03/09/2024,20,495.73
+1886,90,1,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,04/05/2023,16,448.48
+1887,78,2,CodeCode,Ferramentas Criativas,Belo Horizonte,10/10/2024,16,176.06
+1888,31,1,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,29/01/2022,2,98.78
+1889,77,2,PowerPro,Ferramentas Criativas,Belo Horizonte,07/07/2022,6,194.48
+1890,21,3,CodeCode,Ferramentas Educacionais,Belo Horizonte,09/02/2022,9,429.65
+1891,34,3,UI/UX-K,Ferramentas Criativas,São Paulo,24/11/2022,7,293.36
+1892,75,1,LostFost,Ferramentas Educacionais,Rio de Janeiro,21/12/2024,1,197.4
+1893,42,3,LostFost,Ferramentas Educacionais,São Paulo,18/08/2024,20,166.05
+1894,38,3,UI/UX-K,Ferramentas Educacionais,São Paulo,06/02/2023,14,331.29
+1895,16,5,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,06/03/2024,14,212.43
+1896,100,3,PowerPro,Ferramentas Criativas,Belo Horizonte,14/05/2024,6,192.32
+1897,29,1,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,27/12/2023,15,21.66
+1898,23,2,CodeCode,Ferramentas Criativas,Belo Horizonte,25/02/2022,20,20.49
+1899,21,2,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,02/06/2022,11,91.85
+1900,94,4,CodeCode,Ferramentas Educacionais,Rio de Janeiro,19/07/2023,13,120.38
+1901,68,1,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,03/02/2022,4,364.89
+1902,68,3,PowerPro,Ferramentas Criativas,Rio de Janeiro,01/10/2022,4,287.04
+1903,37,1,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,22/06/2022,3,17.11
+1904,75,1,CodeCode,Ferramentas Educacionais,São Paulo,19/02/2023,7,433.28
+1905,75,1,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,06/08/2024,2,219.59
+1906,27,1,HargenXtudio,Ferramentas Educacionais,São Paulo,27/11/2024,16,62.88
+1907,63,1,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,18/09/2024,7,95.6
+1908,13,1,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,23/07/2023,10,117.7
+1909,48,5,PowerPro,Ferramentas Criativas,Belo Horizonte,19/01/2024,6,253.8
+1910,72,3,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,26/08/2024,20,118.9
+1911,70,5,PowerPro,Ferramentas de Desenvolvimento,São Paulo,02/03/2022,1,402.16
+1912,21,3,LostFost,Ferramentas Criativas,São Paulo,06/09/2024,20,411.94
+1913,62,4,CodeCode,Ferramentas Criativas,São Paulo,27/07/2024,2,197.16
+1914,11,4,UI/UX-K,Ferramentas Educacionais,São Paulo,01/10/2024,8,65.1
+1915,21,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,09/01/2024,10,357.37
+1916,22,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,23/07/2024,14,299.32
+1917,98,5,LostFost,Ferramentas de Desenvolvimento,São Paulo,14/03/2022,9,401.34
+1918,23,3,CodeCode,Ferramentas Criativas,Belo Horizonte,01/06/2024,14,282.04
+1919,56,4,UI/UX-K,Ferramentas Educacionais,Rio de Janeiro,27/05/2022,2,376.32
+1920,84,5,CodeCode,Ferramentas Educacionais,São Paulo,22/09/2023,4,464.11
+1921,92,3,UI/UX-K,Ferramentas Criativas,São Paulo,06/06/2022,10,41.77
+1922,42,2,CodeCode,Ferramentas Educacionais,Rio de Janeiro,17/03/2022,6,128.61
+1923,17,3,UI/UX-K,Ferramentas Criativas,São Paulo,18/02/2023,19,287.54
+1924,54,5,LostFost,Ferramentas Criativas,Rio de Janeiro,29/03/2022,9,362.1
+1925,44,2,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,13/03/2023,3,140.58
+1926,31,1,PowerPro,Ferramentas Educacionais,Rio de Janeiro,03/07/2023,6,82.11
+1927,34,1,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,29/03/2023,2,42.82
+1928,12,4,PowerPro,Ferramentas Educacionais,São Paulo,23/04/2023,9,228.83
+1929,15,5,PowerPro,Ferramentas de Desenvolvimento,São Paulo,16/07/2022,1,432.32
+1930,94,2,LostFost,Ferramentas Educacionais,Belo Horizonte,28/12/2023,9,392.41
+1931,92,1,LostFost,Ferramentas de Desenvolvimento,Belo Horizonte,01/09/2023,13,257.01
+1932,93,4,UI/UX-K,Ferramentas Educacionais,São Paulo,24/05/2022,12,112.33
+1933,20,1,PowerPro,Ferramentas Criativas,São Paulo,13/09/2023,5,278.62
+1934,35,4,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,02/10/2023,4,350.94
+1935,83,2,LostFost,Ferramentas Educacionais,São Paulo,28/07/2022,2,373.49
+1936,16,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,17/08/2024,2,129.6
+1937,70,2,HargenXtudio,Ferramentas de Desenvolvimento,Belo Horizonte,12/12/2023,12,472.39
+1938,54,4,LostFost,Ferramentas Criativas,São Paulo,06/03/2023,14,394.59
+1939,55,4,LostFost,Ferramentas de Desenvolvimento,Rio de Janeiro,20/03/2023,12,419.76
+1940,13,4,LostFost,Ferramentas Educacionais,Rio de Janeiro,01/02/2024,8,115.87
+1941,19,3,LostFost,Ferramentas Educacionais,Rio de Janeiro,26/04/2022,7,365.01
+1942,83,4,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,13/10/2023,10,353.12
+1943,52,2,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,16/07/2024,9,265.32
+1944,40,2,PowerPro,Ferramentas Criativas,Belo Horizonte,05/02/2022,3,120.01
+1945,20,5,PowerPro,Ferramentas Educacionais,Belo Horizonte,22/12/2022,1,327.37
+1946,40,1,CodeCode,Ferramentas Educacionais,São Paulo,16/08/2023,19,152.51
+1947,10,1,LostFost,Ferramentas Educacionais,Belo Horizonte,20/03/2022,4,423.91
+1948,41,1,PowerPro,Ferramentas Criativas,Belo Horizonte,26/05/2022,1,77.03
+1949,44,1,UI/UX-K,Ferramentas de Desenvolvimento,Rio de Janeiro,31/01/2023,2,197.08
+1950,42,1,LostFost,Ferramentas Criativas,São Paulo,17/03/2024,20,483.6
+1951,40,5,HargenXtudio,Ferramentas de Desenvolvimento,Rio de Janeiro,04/07/2022,2,82.94
+1952,25,3,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,09/05/2023,4,137.3
+1953,44,1,UI/UX-K,Ferramentas Criativas,Belo Horizonte,09/08/2023,4,435.19
+1954,41,2,LostFost,Ferramentas Educacionais,São Paulo,19/07/2023,9,180.77
+1955,80,3,HargenXtudio,Ferramentas Criativas,Belo Horizonte,23/12/2023,11,121.65
+1956,75,2,PowerPro,Ferramentas Criativas,Rio de Janeiro,01/12/2024,4,336.62
+1957,28,3,PowerPro,Ferramentas Educacionais,Belo Horizonte,15/12/2022,7,435.76
+1958,31,2,LostFost,Ferramentas Educacionais,Belo Horizonte,10/02/2023,16,360.53
+1959,20,4,CodeCode,Ferramentas Criativas,Belo Horizonte,21/10/2024,20,381.28
+1960,88,4,PowerPro,Ferramentas de Desenvolvimento,Rio de Janeiro,31/08/2023,19,111.38
+1961,16,2,LostFost,Ferramentas Educacionais,Belo Horizonte,03/01/2024,20,328.61
+1962,76,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,11/10/2024,15,287.96
+1963,99,5,CodeCode,Ferramentas de Desenvolvimento,São Paulo,15/08/2024,3,393.18
+1964,31,5,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,13/07/2023,11,270.9
+1965,11,4,UI/UX-K,Ferramentas Criativas,São Paulo,08/11/2023,1,157.69
+1966,37,4,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,18/08/2024,9,74.06
+1967,32,2,PowerPro,Ferramentas Educacionais,Rio de Janeiro,14/02/2022,16,285.29
+1968,91,1,UI/UX-K,Ferramentas Criativas,São Paulo,15/03/2024,20,197.27
+1969,51,2,UI/UX-K,Ferramentas Educacionais,São Paulo,30/05/2022,7,222.02
+1970,90,5,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,18/10/2023,17,150.51
+1971,79,2,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,20/05/2022,16,337.22
+1972,45,1,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,16/06/2024,11,401.47
+1973,89,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,25/12/2022,9,115.09
+1974,64,5,LostFost,Ferramentas Criativas,São Paulo,29/01/2022,20,448.1
+1975,77,2,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,17/07/2022,9,334.61
+1976,13,1,HargenXtudio,Ferramentas Educacionais,Rio de Janeiro,20/10/2023,5,306.9
+1977,18,4,PowerPro,Ferramentas Educacionais,Rio de Janeiro,07/03/2024,18,205.78
+1978,18,3,CodeCode,Ferramentas de Desenvolvimento,São Paulo,18/07/2023,3,241.35
+1979,71,5,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,23/12/2023,3,408.39
+1980,79,3,HargenXtudio,Ferramentas de Desenvolvimento,São Paulo,16/03/2022,8,307.3
+1981,81,2,CodeCode,Ferramentas de Desenvolvimento,Rio de Janeiro,24/03/2022,7,13.29
+1982,93,3,CodeCode,Ferramentas Criativas,São Paulo,30/12/2024,20,367.2
+1983,43,2,LostFost,Ferramentas Criativas,Belo Horizonte,03/07/2022,15,228.45
+1984,90,4,PowerPro,Ferramentas de Desenvolvimento,Belo Horizonte,26/08/2024,1,324.5
+1985,13,5,UI/UX-K,Ferramentas Educacionais,Belo Horizonte,03/02/2023,3,248.02
+1986,11,1,HargenXtudio,Ferramentas Educacionais,São Paulo,16/12/2022,10,324.45
+1987,31,1,PowerPro,Ferramentas Criativas,São Paulo,28/11/2023,15,445.04
+1988,80,5,HargenXtudio,Ferramentas Educacionais,São Paulo,31/03/2024,19,26.42
+1989,74,3,HargenXtudio,Ferramentas Criativas,Belo Horizonte,27/10/2023,11,455.21
+1990,18,2,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,26/02/2024,18,17.28
+1991,70,1,HargenXtudio,Ferramentas Criativas,Belo Horizonte,03/04/2024,17,92.6
+1992,40,3,UI/UX-K,Ferramentas de Desenvolvimento,Belo Horizonte,12/01/2024,11,414.09
+1993,23,4,PowerPro,Ferramentas Educacionais,Rio de Janeiro,14/03/2022,8,226.44
+1994,38,3,CodeCode,Ferramentas de Desenvolvimento,Belo Horizonte,08/06/2022,4,201.87
+1995,66,1,HargenXtudio,Ferramentas Criativas,São Paulo,20/01/2024,12,208.08
+1996,80,3,LostFost,Ferramentas de Desenvolvimento,São Paulo,17/08/2024,14,146.3
+1997,10,2,UI/UX-K,Ferramentas Criativas,Rio de Janeiro,28/07/2024,11,114.51
+1998,47,4,CodeCode,Ferramentas Criativas,Belo Horizonte,05/11/2022,16,374.51
+1999,34,3,HargenXtudio,Ferramentas Criativas,Rio de Janeiro,29/09/2022,8,168.41
